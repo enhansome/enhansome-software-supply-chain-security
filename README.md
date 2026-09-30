@@ -31,31 +31,31 @@ In this process-centric view, attestations are *emitted*, *augmented* (e.g., dur
 
 Using this lens we can identify a large group of "subjects" (dependencies), distinct categories of "facts" (licenses or vulnerabilities) and the specific role of identity, provenance and build systems. This is the rationale behind the current headings, which are expected to evolve with the domain.
 
-> Other examples of the ongoing process to define the domain include [Add Bad Design as a supply chain scenario · Issue #249 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/249) ⭐ 1,939 | 🐛 176 | 🌐 HTML | 📅 2026-09-16 and [How does SLSA fit into broader supply chain security? · Issue #276 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/276) ⭐ 1,939 | 🐛 176 | 🌐 HTML | 📅 2026-09-16. [Check out this tweet from Aeva Black](https://twitter.com/aevavoom/status/1491479149227118597) with Dan Lorenc for another in-a-pinch view of a couple key projects.
+> Other examples of the ongoing process to define the domain include [Add Bad Design as a supply chain scenario · Issue #249 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/249) ⭐ 1,941 | 🐛 174 | 🌐 HTML | 📅 2026-09-29 and [How does SLSA fit into broader supply chain security? · Issue #276 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/276) ⭐ 1,941 | 🐛 174 | 🌐 HTML | 📅 2026-09-29. [Check out this tweet from Aeva Black](https://twitter.com/aevavoom/status/1491479149227118597) with Dan Lorenc for another in-a-pinch view of a couple key projects.
 
 ## Dependency intelligence
 
 > This section includes: package management, library management, dependency management, vendored dependency management, by-hash searches, package, library and dependency naming, library behavior labeling, library publishing, registries and repositories, publishing gates and scans, dependency lifecycle.
 
-* [deepfence/ThreatMapper: 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥](https://github.com/deepfence/ThreatMapper) ⭐ 5,321 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01
-* [mandiant/flare-floss: FLARE Obfuscated String Solver uses advanced static analysis to automatically extract and deobfuscate strings from binaries, useful for analyzing suspicious artifacts and identifying hidden behaviors](https://github.com/mandiant/flare-floss) ⭐ 4,162 | 🐛 119 | 🌐 Python | 📅 2026-09-22
-* [betterleaks/betterleaks: High-performance secrets detection tool with CEL-based contextual filtering, secret validation, and token efficiency filtering to reduce false positives](https://github.com/betterleaks/betterleaks) ⭐ 2,055 | 🐛 113 | 🌐 Go | 📅 2026-09-28
-* [AikidoSec/safe-chain: Package manager wrapper for npm, pip, poetry, yarn, and other package managers that blocks installation of newly published packages (less than 24 hours old) to prevent malware campaigns, with no build data sharing](https://github.com/AikidoSec/safe-chain) ⭐ 1,776 | 🐛 112 | 🌐 JavaScript | 📅 2026-09-28
-* [guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database.](https://github.com/guacsec/guac) ⭐ 1,547 | 🐛 70 | 🌐 Go | 📅 2026-09-28
-* [mongodb/kingfisher: High-performance secret scanner that detects and validates secrets by testing against external systems](https://github.com/mongodb/kingfisher) ⭐ 1,246 | 🐛 15 | 🌐 Rust | 📅 2026-09-29, reducing false positives through entropy analysis and real-time verification across AWS, Azure, GCP, and other platforms
-* [package-url/purl-spec: A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby](https://github.com/package-url/purl-spec) ⭐ 1,115 | 🐛 230 | 🌐 Python | 📅 2026-09-23
+* [deepfence/ThreatMapper: 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥](https://github.com/deepfence/ThreatMapper) ⭐ 5,322 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01
+* [mandiant/flare-floss: FLARE Obfuscated String Solver uses advanced static analysis to automatically extract and deobfuscate strings from binaries, useful for analyzing suspicious artifacts and identifying hidden behaviors](https://github.com/mandiant/flare-floss) ⭐ 4,165 | 🐛 119 | 🌐 Python | 📅 2026-09-22
+* [betterleaks/betterleaks: High-performance secrets detection tool with CEL-based contextual filtering, secret validation, and token efficiency filtering to reduce false positives](https://github.com/betterleaks/betterleaks) ⭐ 2,068 | 🐛 109 | 🌐 Go | 📅 2026-09-29
+* [AikidoSec/safe-chain: Package manager wrapper for npm, pip, poetry, yarn, and other package managers that blocks installation of newly published packages (less than 24 hours old) to prevent malware campaigns, with no build data sharing](https://github.com/AikidoSec/safe-chain) ⭐ 1,777 | 🐛 113 | 🌐 JavaScript | 📅 2026-09-30
+* [guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database.](https://github.com/guacsec/guac) ⭐ 1,548 | 🐛 68 | 🌐 Go | 📅 2026-09-29
+* [mongodb/kingfisher: High-performance secret scanner that detects and validates secrets by testing against external systems](https://github.com/mongodb/kingfisher) ⭐ 1,247 | 🐛 14 | 🌐 Rust | 📅 2026-09-29, reducing false positives through entropy analysis and real-time verification across AWS, Azure, GCP, and other platforms
+* [package-url/purl-spec: A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby](https://github.com/package-url/purl-spec) ⭐ 1,115 | 🐛 230 | 🌐 Python | 📅 2026-09-29
 * [ossf/package-analysis: Open Source Package Analysis](https://github.com/ossf/package-analysis) ⭐ 915 | 🐛 87 | 🌐 Go | 📅 2026-09-25 and [ossf/package-feeds: Feed parsing for language package manager updates](https://github.com/ossf/package-feeds) ⭐ 91 | 🐛 33 | 🌐 Go | 📅 2026-06-01
-  * Also [Argo Security Automation with OSS-Fuzz](https://blog.argoproj.io/argo-security-automation-with-oss-fuzz-da38c1f86452), [Improving Security by Fuzzing the CNCF landscape](https://www.cncf.io/blog/2022/06/28/improving-security-by-fuzzing-the-cncf-landscape/) and [google/oss-fuzz: OSS-Fuzz - continuous fuzzing for open source software.](https://github.com/google/oss-fuzz) ⭐ 12,680 | 🐛 777 | 🌐 Shell | 📅 2026-09-28
-  * For Node.js: [CodeIntelligenceTesting/jazzer.js: Coverage-guided, in-process fuzzing for the Node.js](https://github.com/CodeIntelligenceTesting/jazzer.js) ⭐ 359 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-14
+  * Also [Argo Security Automation with OSS-Fuzz](https://blog.argoproj.io/argo-security-automation-with-oss-fuzz-da38c1f86452), [Improving Security by Fuzzing the CNCF landscape](https://www.cncf.io/blog/2022/06/28/improving-security-by-fuzzing-the-cncf-landscape/) and [google/oss-fuzz: OSS-Fuzz - continuous fuzzing for open source software.](https://github.com/google/oss-fuzz) ⭐ 12,683 | 🐛 785 | 🌐 Shell | 📅 2026-09-29
+  * For Node.js: [CodeIntelligenceTesting/jazzer.js: Coverage-guided, in-process fuzzing for the Node.js](https://github.com/CodeIntelligenceTesting/jazzer.js) ⭐ 360 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-14
   * Related: [Introducing Package Analysis: Scanning open source packages for malicious behavior](https://openssf.org/blog/2022/04/28/introducing-package-analysis-scanning-open-source-packages-for-malicious-behavior/)
   * And [ClusterFuzzLite](https://google.github.io/clusterfuzzlite/)
   * Also, although arguably more in the realm of application observability, [IntelLabs/control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
-* [praetorian-inc/titus: High-performance secrets scanner with 487 detection rules for API keys, tokens, and credentials across hundreds of services, featuring live secret validation and available as CLI, Go library, and browser extensions](https://github.com/praetorian-inc/titus) ⭐ 707 | 🐛 4 | 🌐 Go | 📅 2026-09-27
-* [chainguard-dev/malcontent: Static analysis tool for detecting supply chain attacks in container images and artifacts through behavioral pattern matching and anomaly detection](https://github.com/chainguard-dev/malcontent) ⭐ 678 | 🐛 8 | 🌐 YARA | 📅 2026-09-29
-* [safedep/pmg: Package Manager Guard wraps package managers (npm, pip, poetry, uv, etc.) to block malicious packages at install time using SafeDep's realtime malware analysis with OS-native sandbox enforcement (default-deny access control) to protect against supply chain attacks](https://github.com/safedep/pmg) ⭐ 536 | 🐛 39 | 🌐 Go | 📅 2026-09-29 ([sandbox docs](https://github.com/safedep/pmg/blob/main/docs/sandbox.md) ⭐ 536 | 🐛 39 | 🌐 Go | 📅 2026-09-29)
-* [elastic/supply-chain-monitor: Automated monitoring of top PyPI and npm packages for supply chain compromise, using LLM analysis to classify diffs as benign or malicious with Slack alerting](https://github.com/elastic/supply-chain-monitor) ⭐ 533 | 🐛 11 | 🌐 Python | 📅 2026-08-19
+* [praetorian-inc/titus: High-performance secrets scanner with 487 detection rules for API keys, tokens, and credentials across hundreds of services, featuring live secret validation and available as CLI, Go library, and browser extensions](https://github.com/praetorian-inc/titus) ⭐ 708 | 🐛 5 | 🌐 Go | 📅 2026-09-29
+* [chainguard-dev/malcontent: Static analysis tool for detecting supply chain attacks in container images and artifacts through behavioral pattern matching and anomaly detection](https://github.com/chainguard-dev/malcontent) ⭐ 678 | 🐛 6 | 🌐 YARA | 📅 2026-09-29
+* [safedep/pmg: Package Manager Guard wraps package managers (npm, pip, poetry, uv, etc.) to block malicious packages at install time using SafeDep's realtime malware analysis with OS-native sandbox enforcement (default-deny access control) to protect against supply chain attacks](https://github.com/safedep/pmg) ⭐ 536 | 🐛 40 | 🌐 Go | 📅 2026-09-29 ([sandbox docs](https://github.com/safedep/pmg/blob/main/docs/sandbox.md) ⭐ 536 | 🐛 40 | 🌐 Go | 📅 2026-09-29)
+* [elastic/supply-chain-monitor: Automated monitoring of top PyPI and npm packages for supply chain compromise, using LLM analysis to classify diffs as benign or malicious with Slack alerting](https://github.com/elastic/supply-chain-monitor) ⭐ 532 | 🐛 11 | 🌐 Python | 📅 2026-08-19
 * [rohitcoder/hawk-eye: Command-line tool for discovering secrets and PII across infrastructure including S3, databases, cloud storage, Google Drive, Slack, and file systems using text analysis and OCR on various document formats](https://github.com/rohitcoder/hawk-eye) ⭐ 508 | 🐛 6 | 🌐 Python | 📅 2026-07-04
-* [AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.](https://github.com/AppThreat/blint) ⭐ 457 | 🐛 36 | 🌐 Python | 📅 2026-09-28
+* [AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.](https://github.com/AppThreat/blint) ⭐ 457 | 🐛 36 | 🌐 Python | 📅 2026-09-30
 * [cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages](https://github.com/cve-search/git-vuln-finder) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2023-10-07
 * [DataDog/supply-chain-firewall: Python tool for preventing installation of malicious and vulnerable PyPI and npm packages, protecting developers' workstations from supply chain attacks](https://github.com/DataDog/supply-chain-firewall) ⭐ 397 | 🐛 25 | 🌐 Go | 📅 2026-09-24. Read: [Introducing Supply-Chain Firewall](https://securitylabs.datadoghq.com/articles/introducing-supply-chain-firewall/)
 * [arnica/depsguard: Rust-based tool that guards dependencies against supply chain attacks with zero dependencies, static binary distribution for easy CI/CD integration](https://github.com/arnica/depsguard) ⭐ 384 | 🐛 22 | 🌐 Rust | 📅 2026-08-12
@@ -73,14 +73,14 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [2ndSetAI/good-egg: Trust scoring system for GitHub PR authors based on contribution history across the GitHub ecosystem, using data-driven analysis to detect AI-generated mass PRs and evaluate contributor credibility](https://github.com/2ndSetAI/good-egg) ⭐ 53 | 🐛 3 | 🌐 Python | 📅 2026-04-12
 * [SpecterOps/DeepPass2: Multi-layer secrets detection using regex patterns, fine-tuned BERT, and LLM verification](https://github.com/SpecterOps/DeepPass2) ⭐ 48 | 🐛 11 | 🌐 Python | 📅 2026-02-11 to identify both structured tokens and context-dependent free-form passwords in documents
 * [Checkmarx/chainalert-github-action: scans popular packages and alerts in cases there is suspicion of an account takeover](https://github.com/Checkmarx/chainalert-github-action) ⭐ 42 | 🐛 2 | 🌐 JavaScript | 📅 2022-02-20
-* [picatz/deputy: Comprehensive dependency management tool for secure dependency lifecycle management covering vulnerability scans, diffs, fixes, SBOMs, sandboxed execution, and policy-as-code enforcement across repos, images, and registries](https://github.com/picatz/deputy) ⭐ 34 | 🐛 282 | 🌐 Go | 📅 2026-09-17. Read: [Introduction to Deputy](https://picatz.github.io/blog/2026/1/21/introduction-to-deputy)
+* [picatz/deputy: Comprehensive dependency management tool for secure dependency lifecycle management covering vulnerability scans, diffs, fixes, SBOMs, sandboxed execution, and policy-as-code enforcement across repos, images, and registries](https://github.com/picatz/deputy) ⭐ 34 | 🐛 287 | 🌐 Go | 📅 2026-09-29. Read: [Introduction to Deputy](https://picatz.github.io/blog/2026/1/21/introduction-to-deputy)
 * [abhisek/supply-chain-security-gateway: Reference architecture and proof of concept implementation for supply chain security gateway](https://github.com/abhisek/supply-chain-security-gateway) ⚠️ Archived
 * [RedHatProductSecurity/component-registry: Component Registry (Corgi) aggregates component data across Red Hat's supported products, managed services, and internal product pipeline services.](https://github.com/RedHatProductSecurity/component-registry) ⚠️ Archived
 * [Bluewaves54/Bulwark: Lightweight security gateway between package managers and public registries (PyPI, npm, Maven, Open VSX) that inspects packages against configurable policy rules, single Go binary with YAML configuration](https://github.com/Bluewaves54/Bulwark) ⭐ 15 | 🐛 2 | 🌐 Go | 📅 2026-05-23
 * [6mile/super-confused: Dependency confusion analysis tool supporting 17+ file formats and SBOM files](https://github.com/6mile/super-confused) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2025-10-15, identifying confusion opportunities across npm, PyPI, Cargo, Packagist, RubyGems, Maven, Go and other ecosystems
 * [irchaosclub/FANGS: eBPF-based npm package behavior monitoring system that runs releases in Docker sandbox, captures syscalls and network activity via kernel instrumentation, and flags behavioral deviations from baseline to detect supply chain anomalies](https://github.com/irchaosclub/FANGS) ⭐ 10 | 🐛 1 | 🌐 Go | 📅 2026-05-23
 * [momenbasel/AgentGuard: Intercepts package installations triggered by AI coding agents (Claude Code, Codex, Copilot) and validates against typosquatting, known malicious packages (OSV.dev feed), VirusTotal, and dangerous command patterns before execution. Supports npm, pip, Composer, Go, Cargo, and more](https://github.com/momenbasel/AgentGuard) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-06-10
-* [eltociear/skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-08-19 - Static security scanner for the **MCP server and AI agent skill supply chain**. Detects 68 attack patterns across 4 severity levels (CRITICAL/HIGH/MEDIUM/LOW) in skill files, MCP server source, and plugin manifests — credential exfiltration, prompt injection, code execution, seed-phrase harvest, auth bypass, path traversal. SARIF output, ships as GitHub Action (`uses: eltociear/skill-audit-mcp@v1`), multi-arch Docker (`ghcr.io/eltociear/skill-audit-mcp:v1`), and hosted x402 API. Zero dependencies. 68+ real CVEs disclosed using this ruleset.
+* [eltociear/skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-09-30 - Static security scanner for the **MCP server and AI agent skill supply chain**. Detects 68 attack patterns across 4 severity levels (CRITICAL/HIGH/MEDIUM/LOW) in skill files, MCP server source, and plugin manifests — credential exfiltration, prompt injection, code execution, seed-phrase harvest, auth bypass, path traversal. SARIF output, ships as GitHub Action (`uses: eltociear/skill-audit-mcp@v1`), multi-arch Docker (`ghcr.io/eltociear/skill-audit-mcp:v1`), and hosted x402 API. Zero dependencies. 68+ real CVEs disclosed using this ruleset.
 * [GarderaSecurity/gardwatch: Dependency intelligence tool that scores packages on trust, security, and quality, detecting typosquatting, namespace squatting, homoglyph attacks, and malware with OpenSSF Scorecard integration](https://github.com/GarderaSecurity/gardwatch) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-25
 * [mchmarny/reputer: CLI tool that calculates contributor reputation scores from Git provider APIs (GitHub, GitLab) as an identity confidence indicator based on cryptographic signing, 2FA enablement, account age, and engagement depth](https://github.com/mchmarny/reputer) ⚠️ Archived. Read: [Scoring Contributor Reputation](https://blog.chmarny.com/posts/reputer-scoring-contributor-reputation/)
 * [Shai Hulud 2.0 Scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2026-01-02 - Fast, comprehensive scanner to detect the Shai Hulud 2.0 npm supply chain attack (796+ compromised packages). Scans for malicious files, credential theft patterns, and compromised package ecosystems.
@@ -110,8 +110,8 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
     * And [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
     * Not to be confused with the legendary read on [Binary Transparency](https://binary.transparency.dev/)
 * For inputs acquired e.g., via `curl`:
-  * [aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee) ⭐ 4,628 | 🐛 125 | 🌐 Go | 📅 2026-09-25
-  * [genuinetools/bane: Custom & better AppArmor profile generator for Docker containers.](https://github.com/genuinetools/bane) ⭐ 1,230 | 🐛 4 | 🌐 Go | 📅 2020-09-17
+  * [aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee) ⭐ 4,629 | 🐛 122 | 🌐 Go | 📅 2026-09-29
+  * [genuinetools/bane: Custom & better AppArmor profile generator for Docker containers.](https://github.com/genuinetools/bane) ⭐ 1,231 | 🐛 4 | 🌐 Go | 📅 2020-09-17
   * [containers/oci-seccomp-bpf-hook: OCI hook to trace syscalls and generate a seccomp profile](https://github.com/containers/oci-seccomp-bpf-hook) ⭐ 351 | 🐛 4 | 🌐 Go | 📅 2026-09-20
   * [apiaryio/curl-trace-parser: Parser for output from Curl --trace option](https://github.com/apiaryio/curl-trace-parser) ⚠️ Archived
     * [curl trace attestor · Issue #139 · testifysec/witness](https://github.com/testifysec/witness/issues/139) ⭐ 0 | 🐛 0 | 📅 2026-06-30
@@ -144,7 +144,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 
 Also read:
 
-* [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management) ⭐ 1,743 | 🐛 46 | 📅 2024-08-02
+* [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management) ⭐ 1,743 | 🐛 45 | 📅 2024-08-02
 * Several interesting concepts in: [Shopify/seer-prototype: Security Expert Elicitation of Risks](https://github.com/Shopify/seer-prototype/tree/main) ⭐ 13 | 🐛 2 | 🌐 Ruby | 📅 2024-06-03
 * Read: [Contour: A Practical System for Binary Transparency](https://arxiv.org/abs/1712.08427)
 
@@ -154,38 +154,38 @@ Also read:
 
 The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 599 | 🐛 42 | 📅 2026-05-27. Another helpful repo focusing on generators is [cybeats/sbomgen: List of SBOM Generation Tools](https://github.com/cybeats/sbomgen) ⭐ 34 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-07.
 
-* [anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ⭐ 9,624 | 🐛 663 | 🌐 Go | 📅 2026-09-29 from [Software supply chain security solutions • Anchore](https://anchore.com/)
+* [anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ⭐ 9,628 | 🐛 654 | 🌐 Go | 📅 2026-09-29 from [Software supply chain security solutions • Anchore](https://anchore.com/)
   * Simple flow: [utils/ci/github/docker-build-sign-sbom at main · marco-lancini/utils](https://github.com/marco-lancini/utils/tree/main/ci/github/docker-build-sign-sbom) ⭐ 148 | 🐛 12 | 🌐 HCL | 📅 2026-09-15
   * Also note: [New `docker sbom` Command Creates SBOMs Using Syft](https://anchore.com/sbom/docker-sbom-command-creates-sbom-using-syft/)
   * [Creating SBOM Attestations Using Syft and Sigstore](https://anchore.com/sbom/creating-sbom-attestations-using-syft-and-sigstore/)
 
-* [DefectDojo/django-DefectDojo: DefectDojo is a DevSecOps and vulnerability management tool.](https://github.com/DefectDojo/django-DefectDojo) ⭐ 4,966 | 🐛 231 | 🌐 Python | 📅 2026-09-29
+* [DefectDojo/django-DefectDojo: DefectDojo is a DevSecOps and vulnerability management tool.](https://github.com/DefectDojo/django-DefectDojo) ⭐ 4,971 | 🐛 247 | 🌐 Python | 📅 2026-09-30
   * Impressive list of integrations with samples: [DefectDojo/sample-scan-files: Sample scan files for testing DefectDojo imports](https://github.com/DefectDojo/sample-scan-files) ⚠️ Archived
 
-* [DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.](https://github.com/DependencyTrack/dependency-track) ⭐ 4,243 | 🐛 1,042 | 🌐 Java | 📅 2026-09-29
+* [DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.](https://github.com/DependencyTrack/dependency-track) ⭐ 4,245 | 🐛 1,047 | 🌐 Java | 📅 2026-09-30
   * [Good read on Dependency-Track](https://tomalrichblog.blogspot.com/2022/06/the-first-complete-sbom-tool.html?m=1)
 
-* [e-m-b-a/emba: Security analyzer for firmware of embedded devices, supporting static and dynamic analysis via emulation, SBOM generation, and vulnerability reporting](https://github.com/e-m-b-a/emba) ⭐ 3,681 | 🐛 15 | 🌐 Shell | 📅 2026-09-28
+* [e-m-b-a/emba: Security analyzer for firmware of embedded devices, supporting static and dynamic analysis via emulation, SBOM generation, and vulnerability reporting](https://github.com/e-m-b-a/emba) ⭐ 3,680 | 🐛 16 | 🌐 Shell | 📅 2026-09-28
 
-* [nexB/scancode-toolkit: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.](https://github.com/nexB/scancode-toolkit) ⭐ 2,633 | 🐛 1,690 | 🌐 Python | 📅 2026-09-18
+* [nexB/scancode-toolkit: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.](https://github.com/nexB/scancode-toolkit) ⭐ 2,634 | 🐛 1,692 | 🌐 Python | 📅 2026-09-29
 
-* [oss-review-toolkit/ort: A suite of tools to assist with reviewing Open Source Software dependencies.](https://github.com/oss-review-toolkit/ort) ⭐ 2,096 | 🐛 335 | 🌐 Kotlin | 📅 2026-09-29
+* [oss-review-toolkit/ort: A suite of tools to assist with reviewing Open Source Software dependencies.](https://github.com/oss-review-toolkit/ort) ⭐ 2,096 | 🐛 333 | 🌐 Kotlin | 📅 2026-09-30
 
 * [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts](https://github.com/microsoft/sbom-tool) ⭐ 2,077 | 🐛 102 | 🌐 C# | 📅 2026-09-21
 
 * [Grafeas: A Component Metadata API](https://github.com/grafeas/grafeas) ⭐ 1,569 | 🐛 62 | 🌐 Go | 📅 2026-07-25
 
-* [AppThreat/dep-scan: Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required!](https://github.com/AppThreat/dep-scan) ⭐ 1,290 | 🐛 83 | 🌐 Python | 📅 2026-09-21
+* [AppThreat/dep-scan: Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required!](https://github.com/AppThreat/dep-scan) ⭐ 1,293 | 🐛 83 | 🌐 Python | 📅 2026-09-21
 
-* [AppThreat/cdxgen: Generates CycloneDX Software Bill of Materials (SBOM) for many languages and package managers including Java, JavaScript, Python, Go, Rust, Ruby, PHP, and more](https://github.com/AppThreat/cdxgen) ⭐ 1,077 | 🐛 413 | 🌐 JavaScript | 📅 2026-09-29
+* [AppThreat/cdxgen: Generates CycloneDX Software Bill of Materials (SBOM) for many languages and package managers including Java, JavaScript, Python, Go, Rust, Ruby, PHP, and more](https://github.com/AppThreat/cdxgen) ⭐ 1,078 | 🐛 411 | 🌐 JavaScript | 📅 2026-09-30
 
 * [tern-tools/tern: Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.](https://github.com/tern-tools/tern) ⭐ 1,020 | 🐛 64 | 🌐 Python | 📅 2024-03-12
 
-* [ANNOUNCE: Scan is now in maintenance mode · Issue #352 · ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan/issues/352) ⭐ 881 | 🐛 49 | 🌐 Python | 📅 2023-09-01
+* [ANNOUNCE: Scan is now in maintenance mode · Issue #352 · ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan/issues/352) ⭐ 882 | 🐛 49 | 🌐 Python | 📅 2023-09-01
 
-* [microsoft/component-detection: Scans your project to determine what components you use](https://github.com/microsoft/component-detection/) ⭐ 555 | 🐛 189 | 🌐 C# | 📅 2026-09-25
+* [microsoft/component-detection: Scans your project to determine what components you use](https://github.com/microsoft/component-detection/) ⭐ 555 | 🐛 189 | 🌐 C# | 📅 2026-09-29
 
-* [kubernetes-sigs/bom: A utility to generate SBOM for Kubernetes projects, supporting SPDX format with file checksums, package information, and license data](https://github.com/kubernetes-sigs/bom) ⭐ 472 | 🐛 1 | 🌐 Go | 📅 2026-09-24
+* [kubernetes-sigs/bom: A utility to generate SBOM for Kubernetes projects, supporting SPDX format with file checksums, package information, and license data](https://github.com/kubernetes-sigs/bom) ⭐ 472 | 🐛 1 | 🌐 Go | 📅 2026-09-30
 
 * [opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.](https://github.com/opensbom-generator/spdx-sbom-generator) ⚠️ Archived
 
@@ -195,21 +195,21 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 
 * [Trusera/ai-bom: AI Bill of Materials generator for agent workflows](https://github.com/Trusera/ai-bom) ⭐ 338 | 🐛 15 | 🌐 Python | 📅 2026-05-24, scanning n8n, LangGraph, and CrewAI workflows for AI components and generating SBOM output in CycloneDX and SPDX formats
 
-* [interlynk-io/sbomqs: SBOM quality score - Quality metrics for your sboms](https://github.com/interlynk-io/sbomqs) ⭐ 307 | 🐛 21 | 🌐 Go | 📅 2026-09-21
+* [interlynk-io/sbomqs: SBOM quality score - Quality metrics for your sboms](https://github.com/interlynk-io/sbomqs) ⭐ 307 | 🐛 22 | 🌐 Go | 📅 2026-09-21
 
-* [eclipse-sw360/sw360](https://github.com/eclipse-sw360/sw360) ⭐ 256 | 🐛 482 | 🌐 Java | 📅 2026-09-28 is an open source software component catalogue for managing software components, licenses, and compliance with SPDX support. See [eclipse.dev/sw360/](https://eclipse.dev/sw360/)
+* [eclipse-sw360/sw360](https://github.com/eclipse-sw360/sw360) ⭐ 257 | 🐛 483 | 🌐 Java | 📅 2026-09-30 is an open source software component catalogue for managing software components, licenses, and compliance with SPDX support. See [eclipse.dev/sw360/](https://eclipse.dev/sw360/)
 
 * [eBay/sbom-scorecard: Generate a score for your sbom to understand if it will actually be useful.](https://github.com/eBay/sbom-scorecard) ⭐ 242 | 🐛 8 | 🌐 Go | 📅 2024-08-13
 
-* [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator) ⭐ 237 | 🐛 11 | 🌐 Go | 📅 2026-09-29
+* [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator) ⭐ 238 | 🐛 12 | 🌐 Go | 📅 2026-09-29
 
 * [advanced-security/gh-sbom: Generate SBOMs with gh CLI](https://github.com/advanced-security/gh-sbom) ⭐ 207 | 🐛 13 | 🌐 Go | 📅 2025-05-30
 
-* [fosslight/fosslight: FOSSLight is an integrated open source management system that supports the open source software lifecycle, including dependency analysis, license compliance, and SBOM generation.](https://github.com/fosslight/fosslight) ⭐ 202 | 🐛 37 | 🌐 Java | 📅 2026-09-29 See [fosslight.org](https://fosslight.org/)
+* [fosslight/fosslight: FOSSLight is an integrated open source management system that supports the open source software lifecycle, including dependency analysis, license compliance, and SBOM generation.](https://github.com/fosslight/fosslight) ⭐ 202 | 🐛 37 | 🌐 Java | 📅 2026-09-30 See [fosslight.org](https://fosslight.org/)
 
 * [Lab700xOrg/aisbom: Static malware and license scanner for ML model files](https://github.com/Lab700xOrg/aisbom) ⭐ 80 | 🐛 6 | 🌐 Python | 📅 2026-09-26, disassembling Pickle bytecode and parsing SafeTensors/GGUF binary headers to detect RCE-capable payloads and license risks before model load; generates CycloneDX/SPDX SBOMs and supports remote HTTP-range scanning of Hugging Face models with no weights downloaded.
 
-* [guacsec/trustify](https://github.com/guacsec/trustify) ⭐ 78 | 🐛 68 | 🌐 Rust | 📅 2026-09-29 provides a searchable abstraction over CycloneDX/SPDX SBOMs, cross-referencing against security advisories to identify vulnerabilities. See [docs](https://docs.trustification.dev/trustify/index.html)
+* [guacsec/trustify](https://github.com/guacsec/trustify) ⭐ 78 | 🐛 67 | 🌐 Rust | 📅 2026-09-30 provides a searchable abstraction over CycloneDX/SPDX SBOMs, cross-referencing against security advisories to identify vulnerabilities. See [docs](https://docs.trustification.dev/trustify/index.html)
 
 * [patriksvensson/covenant: A tool to generate SBOM (Software Bill of Material) from source code artifacts.](https://github.com/patriksvensson/covenant) ⭐ 73 | 🐛 10 | 🌐 C# | 📅 2026-09-13
 
@@ -217,7 +217,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 
 * [philips-software/SPDXMerge: Tool for merging multiple SPDX JSON/Tag-value SBOMs into a parent SBOM](https://github.com/philips-software/SPDXMerge) ⭐ 53 | 🐛 17 | 🌐 Python | 📅 2026-09-07, supporting deep merge (consolidate contents) and shallow merge (create references) with GitHub Action and Docker support
 
-* [siemens/debsbom: Generates SBOMs for Debian-based distributions in SPDX and CycloneDX formats, with focus on source packages (relevant for CVE matching) and complete dependency graphs for identifying crucial components](https://github.com/siemens/debsbom) ⭐ 43 | 🐛 8 | 🌐 Python | 📅 2026-09-28
+* [siemens/debsbom: Generates SBOMs for Debian-based distributions in SPDX and CycloneDX formats, with focus on source packages (relevant for CVE matching) and complete dependency graphs for identifying crucial components](https://github.com/siemens/debsbom) ⭐ 43 | 🐛 8 | 🌐 Python | 📅 2026-09-29
 
 * [safedep/xbom: BOM generation tool that detects AI SDKs, ML models, SaaS APIs, and cryptographic algorithms via static code analysis with community-maintained YAML signatures, supporting Python, Java, Go, and JavaScript with CycloneDX output](https://github.com/safedep/xbom) ⭐ 38 | 🐛 10 | 🌐 Go | 📅 2026-01-22
 
@@ -266,14 +266,14 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 
 * [GitBOM](https://gitbom.dev/)
   * Also: [git-bom/bomsh: bomsh is collection of tools to explore the GitBOM idea](https://github.com/git-bom/bomsh#Reproducible-Build-and-Bomsh) ⭐ 22 | 🐛 6 | 🌐 Python | 📅 2024-10-31
-  * Also see [bomsage/vision.md at main · dpp/bomsage](https://github.com/dpp/bomsage/blob/main/info/vision.md) ⭐ 2 | 🐛 0 | 🌐 Scala | 📅 2024-09-30, and [pkgconf/main.c at master · pkgconf/pkgconf](https://github.com/pkgconf/pkgconf/blob/master/cli/bomtool/main.c) ⭐ 656 | 🐛 12 | 🌐 C | 📅 2026-09-10 (more info in [this thread](https://twitter.com/ariadneconill/status/1558074556723728387))
+  * Also see [bomsage/vision.md at main · dpp/bomsage](https://github.com/dpp/bomsage/blob/main/info/vision.md) ⭐ 2 | 🐛 0 | 🌐 Scala | 📅 2024-09-30, and [pkgconf/main.c at master · pkgconf/pkgconf](https://github.com/pkgconf/pkgconf/blob/master/cli/bomtool/main.c) ⭐ 657 | 🐛 12 | 🌐 C | 📅 2026-09-10 (more info in [this thread](https://twitter.com/ariadneconill/status/1558074556723728387))
   * [yonhan3/gitbom-repo: A repository of gitBOM docs for Linux binaries](https://github.com/yonhan3/gitbom-repo) ⭐ 1 | 🐛 0 | 📅 2022-03-06
   * Listen: [GitBOM. It’s not Git or SBOM](https://thectoadvisor.com/gitbom-podcast/) and [GitBOM: Repurposing Git’s Graph for Supply Chain Security & Transparency](https://www.youtube.com/watch?v=qcQFIv6pCSE)
 
 * OWASP's [SCA tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is comprehensive on its own
 
 * [Mend SCA SBOM](https://www.mend.io/sbom/), [Mend Bolt: Find and Fix Open Source vulnerabilities](https://www.mend.io/free-developer-tools/bolt/) and [Whitesource Renovate: Automated Dependency Updates](https://www.whitesourcesoftware.com/free-developer-tools/renovate/)
-  * [renovatebot/renovate: Universal dependency update tool that fits into your workflows.](https://github.com/renovatebot/renovate) ⭐ 22,624 | 🐛 1,444 | 🌐 TypeScript | 📅 2026-09-29
+  * [renovatebot/renovate: Universal dependency update tool that fits into your workflows.](https://github.com/renovatebot/renovate) ⭐ 22,631 | 🐛 1,442 | 🌐 TypeScript | 📅 2026-09-30
     * Also read [Use Cases - Renovate Docs](https://docs.renovatebot.com/getting-started/use-cases/)
 
 * [JFrog Xray - Universal Component Analysis & Container Security Scanning](https://jfrog.com/xray/)
@@ -287,7 +287,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Collabora SBOM Toolkit: Tooling used in Apertis for generating Software Bill of Materials with comprehensive component tracking and supply chain transparency](https://salsa.debian.org/collabora-team/sbom-toolkit)
 
 * **Nix-specific SBOM tools** for generating precise SBOMs from Nix derivations:
-  * [tiiuae/sbomnix: Generates SBOMs for Nix derivations at the .drv level, attempting to reconstruct metadata and supporting both build-time and runtime pruning](https://github.com/tiiuae/sbomnix) ⭐ 327 | 🐛 10 | 🌐 Python | 📅 2026-09-26
+  * [tiiuae/sbomnix: Generates SBOMs for Nix derivations at the .drv level, attempting to reconstruct metadata and supporting both build-time and runtime pruning](https://github.com/tiiuae/sbomnix) ⭐ 328 | 🐛 10 | 🌐 Python | 📅 2026-09-30
   * [nikstur/bombon: Generates SBOMs for Nix packages at the .nix level with access to meta information, supporting flat SBOM output](https://github.com/nikstur/bombon) ⭐ 149 | 🐛 9 | 🌐 Rust | 📅 2026-09-01
   * [tweag/genealogos: Nix SBOM generator using nixtract for dependency introspection with hierarchical representation of build and runtime dependencies](https://github.com/tweag/genealogos) ⭐ 58 | 🐛 6 | 🌐 Rust | 📅 2026-09-09
 
@@ -375,42 +375,42 @@ More interesting resources:
 
 A few open source projects are documenting, in public, how they acquire dependencies. This intentional, human-parsable, long-form examples can be illustrative:
 
-* [envoy/DEPENDENCY\_POLICY.md at main · envoyproxy/envoy](https://github.com/envoyproxy/envoy/blob/main/DEPENDENCY_POLICY.md) ⭐ 29,015 | 🐛 1,860 | 🌐 C++ | 📅 2026-09-29
+* [envoy/DEPENDENCY\_POLICY.md at main · envoyproxy/envoy](https://github.com/envoyproxy/envoy/blob/main/DEPENDENCY_POLICY.md) ⭐ 29,016 | 🐛 1,862 | 🌐 C++ | 📅 2026-09-30
 * [What curl expects from dependencies](https://daniel.haxx.se/blog/2022/03/28/what-curl-expects-from-dependencies/)
 * [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/) from Flux
 
-- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 141 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-29 - Multi-cluster Kubernetes dashboard with integrated supply chain security (SBOM, SLSA, Sigstore/Cosign, Kyverno policy), CNCF Sandbox project.
+- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 141 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-30 - Multi-cluster Kubernetes dashboard with integrated supply chain security (SBOM, SLSA, Sigstore/Cosign, Kyverno policy), CNCF Sandbox project.
 
 * [nelsonduarte/capa-language: A capability-typed programming language whose compiler emits CycloneDX 1.5, SPDX 2.3, CycloneDX VEX, and SLSA L1 provenance directly from function signatures, with per-function granularity for declared capabilities (Fs/Net/Env/...) and user-defined capabilities. Includes a worked example of sandboxing LLM agent tool-use via the type system](https://github.com/nelsonduarte/capa-language) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-09-25
 
 ### Vulnerability information exchange
 
-* [aquasecurity/trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy) ⭐ 38,127 | 🐛 259 | 🌐 Go | 📅 2026-09-29
-* [anchore/grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype) ⭐ 12,950 | 🐛 418 | 🌐 Go | 📅 2026-09-28
+* [aquasecurity/trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy) ⭐ 38,145 | 🐛 258 | 🌐 Go | 📅 2026-09-30
+* [anchore/grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype) ⭐ 12,956 | 🐛 418 | 🌐 Go | 📅 2026-09-29
   * Also see [Using Grype to Identify GitHub Action Vulnerabilities](https://anchore.com/blog/using-grype-to-identify-github-action-vulnerabilities/)
   * And also [Grype now supports CycloneDX and SPDX standards](https://anchore.com/sbom/grype-support-cyclonedx-spdx/)
-* [future-architect/vuls: Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices](https://github.com/future-architect/vuls) ⭐ 12,275 | 🐛 90 | 🌐 Go | 📅 2026-09-29
-* [trickest/cve: Gather and update all available and newest CVEs with their PoC.](https://github.com/trickest/cve) ⭐ 8,109 | 🐛 21 | 🌐 HTML | 📅 2026-09-28
-* [infobyte/faraday: Open Source Vulnerability Management Platform](https://github.com/infobyte/faraday) ⭐ 6,756 | 🐛 16 | 🌐 Python | 📅 2026-09-17 from [Faraday - Community v4 Release](https://faradaysec.com/community-v4/)
-* [ossf/scorecard: Security Scorecards - Security health metrics for Open Source](https://github.com/ossf/scorecard) ⭐ 5,720 | 🐛 451 | 🌐 Go | 📅 2026-09-28, [OpenSSF Metrics](https://metrics.openssf.org/) and [ossf/security-reviews: A community collection of security reviews of open source software components.](https://github.com/ossf/security-reviews) ⭐ 101 | 🐛 15 | 🌐 Python | 📅 2024-02-29
+* [future-architect/vuls: Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices](https://github.com/future-architect/vuls) ⭐ 12,276 | 🐛 88 | 🌐 Go | 📅 2026-09-30
+* [trickest/cve: Gather and update all available and newest CVEs with their PoC.](https://github.com/trickest/cve) ⭐ 8,112 | 🐛 21 | 🌐 HTML | 📅 2026-09-29
+* [infobyte/faraday: Open Source Vulnerability Management Platform](https://github.com/infobyte/faraday) ⭐ 6,759 | 🐛 15 | 🌐 Python | 📅 2026-09-17 from [Faraday - Community v4 Release](https://faradaysec.com/community-v4/)
+* [ossf/scorecard: Security Scorecards - Security health metrics for Open Source](https://github.com/ossf/scorecard) ⭐ 5,727 | 🐛 439 | 🌐 Go | 📅 2026-09-30, [OpenSSF Metrics](https://metrics.openssf.org/) and [ossf/security-reviews: A community collection of security reviews of open source software components.](https://github.com/ossf/security-reviews) ⭐ 101 | 🐛 15 | 🌐 Python | 📅 2024-02-29
   * [ossf/scorecard-action: Official GitHub Action for OSSF Scorecards.](https://github.com/ossf/scorecard-action) ⭐ 420 | 🐛 45 | 🌐 Go | 📅 2026-09-25
-    * Note: [How OpenSSF Scorecard’s GitHub Action v2 action uses GitHub OIDC with Sigstore](https://github.com/sigstore/community/issues/125#issuecomment-1240965050) ⭐ 45 | 🐛 20 | 📅 2026-09-16
-  * Also [OpenSSF Security Insights Spec](https://github.com/ossf/security-insights-spec) ⭐ 81 | 🐛 8 | 🌐 Go | 📅 2026-09-23
+    * Note: [How OpenSSF Scorecard’s GitHub Action v2 action uses GitHub OIDC with Sigstore](https://github.com/sigstore/community/issues/125#issuecomment-1240965050) ⭐ 45 | 🐛 19 | 📅 2026-09-16
+  * Also [OpenSSF Security Insights Spec](https://github.com/ossf/security-insights-spec) ⭐ 81 | 🐛 8 | 🌐 Go | 📅 2026-09-30
   * Also see: [naveensrinivasan/scorecard-1000-critical-projects](https://github.com/naveensrinivasan/scorecard-1000-critical-projects) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2022-11-10, using the Scorecard API to analyze the top 1000 critical open source projects from the [Criticality Score](https://github.com/ossf/criticality_score) ⭐ 1,460 | 🐛 93 | 🌐 Go | 📅 2026-08-27 dataset
   * Read: [How OpenSSF Scorecards can help to evaluate open-source software risks](https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668192/how-openssf-scorecards-can-help-to-evaluate-open-source-software-risks.amp.html)
   * Great real life example: [State of the Eclipse Foundation GitHub repositories](https://mikael.barbero.tech/blog/post/eclipsefdn-scorecard-aug2022/)
-* [cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities](https://github.com/cve-search/cve-search) ⭐ 2,652 | 🐛 0 | 🌐 Python | 📅 2026-09-02
+* [cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities](https://github.com/cve-search/cve-search) ⭐ 2,652 | 🐛 1 | 🌐 Python | 📅 2026-09-30
 * [toolswatch/vFeed: The Correlated CVE Vulnerability And Threat Intelligence Database API](https://github.com/toolswatch/vFeed) ⚠️ Archived
-* [TURROKS/CVE\_Prioritizer: Prioritize vulnerability patching by combining CVSS, EPSS, CISA KEV, and VulnCheck data](https://github.com/TURROKS/CVE_Prioritizer) ⭐ 709 | 🐛 5 | 🌐 Python | 📅 2026-08-23
-* [nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode](https://github.com/nexB/vulnerablecode) ⭐ 707 | 🐛 836 | 🌐 Python | 📅 2026-09-23
+* [TURROKS/CVE\_Prioritizer: Prioritize vulnerability patching by combining CVSS, EPSS, CISA KEV, and VulnCheck data](https://github.com/TURROKS/CVE_Prioritizer) ⭐ 710 | 🐛 5 | 🌐 Python | 📅 2026-08-23
+* [nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode](https://github.com/nexB/vulnerablecode) ⭐ 706 | 🐛 837 | 🌐 Python | 📅 2026-09-29
 * [devops-kung-fu/bomber: Scans SBoMs for security vulnerabilities](https://github.com/devops-kung-fu/bomber) ⭐ 627 | 🐛 30 | 🌐 Go | 📅 2026-02-10
 * [devops-kung-fu/bomber: Scans Software Bill of Materials (SBOMs) for security vulnerabilities](https://github.com/devops-kung-fu/bomber) ⭐ 627 | 🐛 30 | 🌐 Go | 📅 2026-02-10
-* [vulnerability-lookup/vulnerability-lookup: Vulnerability correlation platform with multi-source feeds](https://github.com/vulnerability-lookup/vulnerability-lookup) ⭐ 578 | 🐛 69 | 🌐 Python | 📅 2026-09-29 (NVD, GitHub, OSV, national databases), CVD management, sightings tracking, comments, bundles, and API for rapid lookup and cross-source correlation
+* [vulnerability-lookup/vulnerability-lookup: Vulnerability correlation platform with multi-source feeds](https://github.com/vulnerability-lookup/vulnerability-lookup) ⭐ 577 | 🐛 70 | 🌐 Python | 📅 2026-09-30 (NVD, GitHub, OSV, national databases), CVD management, sightings tracking, comments, bundles, and API for rapid lookup and cross-source correlation
 * [noqcks/xeol: An end-of-life (EOL) package scanner for container images, systems, and SBOMs](https://github.com/noqcks/xeol) ⭐ 449 | 🐛 37 | 🌐 Go | 📅 2026-06-25
 * [Global Security Database Working Group | CSA](https://cloudsecurityalliance.org/research/working-groups/global-security-database/), also see [cloudsecurityalliance/gsd-database: Global Security Database](https://github.com/cloudsecurityalliance/gsd-database) ⚠️ Archived
-* [mitre/saf: The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline security automation for systems and DevOps pipelines](https://github.com/mitre/saf) ⭐ 188 | 🐛 161 | 🌐 HTML | 📅 2026-09-29
+* [mitre/saf: The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline security automation for systems and DevOps pipelines](https://github.com/mitre/saf) ⭐ 189 | 🐛 149 | 🌐 HTML | 📅 2026-09-30
 * [ossf-cve-benchmark/ossf-cve-benchmark: The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) tools and generate reports to evaluate those tools.](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark) ⭐ 174 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-12
-* [AppThreat/vulnerability-db: Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm.](https://github.com/AppThreat/vulnerability-db) ⭐ 153 | 🐛 35 | 🌐 Python | 📅 2026-09-27
+* [AppThreat/vulnerability-db: Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm.](https://github.com/AppThreat/vulnerability-db) ⭐ 153 | 🐛 37 | 🌐 Python | 📅 2026-09-29
 * [Exein-io/kepler: NIST-based CVE lookup store and API powered by Rust](https://github.com/Exein-io/kepler) ⭐ 141 | 🐛 10 | 🌐 Rust | 📅 2025-09-17
 * [Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2023-08-12
 * [victims/victims-cve-db: CVE database store](https://github.com/victims/victims-cve-db) ⭐ 134 | 🐛 15 | 🌐 Python | 📅 2020-10-19
@@ -419,10 +419,10 @@ A few open source projects are documenting, in public, how they acquire dependen
 * An AOSP vuln-to-commit exercise: [quarkslab/aosp\_dataset: Large Commit Precise Vulnerability Dataset based on AOSP CVE](https://github.com/quarkslab/aosp_dataset) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2023-05-12
   * [Commit Level Vulnerability Dataset](https://blog.quarkslab.com/commit-level-vulnerability-dataset.html)
 * [davideshay/vulnscan: Vulnerability Scanner Suite based on grype and syft from anchore](https://github.com/davideshay/vulnscan#readme) ⭐ 54 | 🐛 1 | 🌐 JavaScript | 📅 2022-05-05
-* [secvisogram/secvisogram: Secvisogram is a web tool for creating and editing security advisories in the CSAF 2.0 format](https://github.com/secvisogram/secvisogram/) ⭐ 44 | 🐛 58 | 🌐 JavaScript | 📅 2026-09-25
+* [secvisogram/secvisogram: Secvisogram is a web tool for creating and editing security advisories in the CSAF 2.0 format](https://github.com/secvisogram/secvisogram/) ⭐ 44 | 🐛 57 | 🌐 JavaScript | 📅 2026-09-30
 * [santosh3743/stackhealth: Open code health benchmark for any public GitHub repo. Aggregates OpenSSF Scorecard, Semgrep, Trivy, and language-native linters into a 0–100 composite score across security, quality, hygiene, and community. Fully open, versioned formula](https://github.com/santosh3743/stackhealth) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2026-09-21, [live at stackhealth.dev](https://stackhealth.dev)
 * [OSV](https://osv.dev/)
-  * Tools: [google/osv-scanner: Vulnerability scanner written in Go which uses the data provided by https://osv.dev](https://github.com/google/osv-scanner) ⭐ 11,109 | 🐛 115 | 🌐 Go | 📅 2026-09-29
+  * Tools: [google/osv-scanner: Vulnerability scanner written in Go which uses the data provided by https://osv.dev](https://github.com/google/osv-scanner) ⭐ 11,123 | 🐛 114 | 🌐 Go | 📅 2026-09-29
   * Related: [spdx/spdx-to-osv: Produce an Open Source Vulnerability JSON file based on information in an SPDX document](https://github.com/spdx/spdx-to-osv/) ⭐ 64 | 🐛 4 | 🌐 Java | 📅 2024-05-27
   * Read: [SBOM in Action: finding vulnerabilities with a Software Bill of Materials](https://security.googleblog.com/2022/06/sbom-in-action-finding-vulnerabilities.html?m=1)
   * Read: [Announcing OSV-Scanner V2: Vulnerability scanner and remediation tool for open source](https://security.googleblog.com/2025/03/announcing-osv-scanner-v2-vulnerability.html)
@@ -467,21 +467,21 @@ Also see:
 
 > This section includes: admission and ingestion policies, pull-time verification and end-user verifications.
 
-* [armosec/kubescape: Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.](https://github.com/armosec/kubescape) ⭐ 11,756 | 🐛 47 | 🌐 Go | 📅 2026-09-29
+* [armosec/kubescape: Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.](https://github.com/armosec/kubescape) ⭐ 11,757 | 🐛 46 | 🌐 Go | 📅 2026-09-30
   * Also: [kubescape Visual Studio Code extension](https://www.armosec.io/blog/find-kubernetes-security-issues-while-coding/)
-* [aquasecurity/kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench) ⭐ 8,204 | 🐛 107 | 🌐 Go | 📅 2026-09-28 and [aquasecurity/kube-hunter: Hunt for security weaknesses in Kubernetes clusters](https://github.com/aquasecurity/kube-hunter) ⭐ 5,089 | 🐛 82 | 🌐 Python | 📅 2024-03-19
-* [cloudquery/plugins/source/k8s/policies at main · cloudquery/cloudquery](https://github.com/cloudquery/cloudquery/tree/main/plugins/source/k8s/policies) ⭐ 6,531 | 🐛 171 | 🌐 Go | 📅 2026-09-28
+* [aquasecurity/kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench) ⭐ 8,206 | 🐛 107 | 🌐 Go | 📅 2026-09-28 and [aquasecurity/kube-hunter: Hunt for security weaknesses in Kubernetes clusters](https://github.com/aquasecurity/kube-hunter) ⭐ 5,087 | 🐛 82 | 🌐 Python | 📅 2024-03-19
+* [cloudquery/plugins/source/k8s/policies at main · cloudquery/cloudquery](https://github.com/cloudquery/cloudquery/tree/main/plugins/source/k8s/policies) ⭐ 6,532 | 🐛 171 | 🌐 Go | 📅 2026-09-30
 * [goodwithtech/dockle: Container image linter for security, detects vulnerabilities, helps build best-practice Dockerfiles and supports CIS Benchmarks](https://github.com/goodwithtech/dockle) ⭐ 3,297 | 🐛 53 | 🌐 Go | 📅 2026-08-10
-* [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego) ⭐ 3,274 | 🐛 38 | 🌐 Go | 📅 2026-09-28
-* [aquasecurity/trivy-operator: Kubernetes-native security toolkit that continuously scans the cluster for vulnerabilities, misconfiguration, secrets, and exposed sensitive information](https://github.com/aquasecurity/trivy-operator) ⭐ 1,952 | 🐛 231 | 🌐 Go | 📅 2026-09-28
-* [aquasecurity/starboard: Kubernetes-native security toolkit](https://github.com/aquasecurity/starboard) ⭐ 1,380 | 🐛 59 | 🌐 Go | 📅 2026-06-10
+* [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego) ⭐ 3,275 | 🐛 35 | 🌐 Go | 📅 2026-09-30
+* [aquasecurity/trivy-operator: Kubernetes-native security toolkit that continuously scans the cluster for vulnerabilities, misconfiguration, secrets, and exposed sensitive information](https://github.com/aquasecurity/trivy-operator) ⭐ 1,953 | 🐛 233 | 🌐 Go | 📅 2026-09-28
+* [aquasecurity/starboard: Kubernetes-native security toolkit](https://github.com/aquasecurity/starboard) ⭐ 1,381 | 🐛 59 | 🌐 Go | 📅 2026-06-10
   * [Get started with Kubernetes Security and Starboard](https://www.youtube.com/watch?v=QgctrpTpJec)
-* [stackrox/stackrox: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.](https://github.com/stackrox/stackrox) ⭐ 1,313 | 🐛 704 | 🌐 Go | 📅 2026-09-29
+* [stackrox/stackrox: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.](https://github.com/stackrox/stackrox) ⭐ 1,314 | 🐛 706 | 🌐 Go | 📅 2026-09-30
 * [grafeas/kritis: Solution for securing your software supply chain for Kubernetes apps, enforcing deploy-time security policies](https://github.com/grafeas/kritis) ⭐ 709 | 🐛 86 | 🌐 Go | 📅 2026-09-01
+* [ironsh/iron-proxy: MITM egress proxy with built-in DNS server enforcing default-deny network access, designed to prevent secrets exfiltration, command injection, and reverse shell attacks in CI/CD and sandboxed environments](https://github.com/ironsh/iron-proxy) ⭐ 697 | 🐛 28 | 🌐 Go | 📅 2026-09-29
 * [ossillate-inc/packj: The vetting tool 🚀 behind our large-scale security analysis platform to detect malicious/risky open-source packages](https://github.com/ossillate-inc/packj) ⭐ 694 | 🐛 13 | 🌐 Python | 📅 2026-09-17 and [Packj | A vetting tool to avoid "risky" packages](https://packj.dev/)
-* [ironsh/iron-proxy: MITM egress proxy with built-in DNS server enforcing default-deny network access, designed to prevent secrets exfiltration, command injection, and reverse shell attacks in CI/CD and sandboxed environments](https://github.com/ironsh/iron-proxy) ⭐ 694 | 🐛 28 | 🌐 Go | 📅 2026-09-29
 * [HarborGuard/HarborGuard: Comprehensive container security scanning platform with intuitive web UI for managing and visualizing security assessments of Docker images](https://github.com/HarborGuard/HarborGuard) ⭐ 627 | 🐛 30 | 🌐 TypeScript | 📅 2026-05-23
-* [boostsecurityio/poutine: CI/CD security scanner that detects misconfigurations and vulnerabilities in GitHub Actions and GitLab CI/CD workflows, with organization-wide analysis capabilities](https://github.com/boostsecurityio/poutine) ⭐ 522 | 🐛 21 | 🌐 Go | 📅 2026-07-09
+* [boostsecurityio/poutine: CI/CD security scanner that detects misconfigurations and vulnerabilities in GitHub Actions and GitLab CI/CD workflows, with organization-wide analysis capabilities](https://github.com/boostsecurityio/poutine) ⭐ 523 | 🐛 21 | 🌐 Go | 📅 2026-07-09
   * [boostsecurityio/poutine-action: GitHub Action for integrating poutine security scanning into GitHub Actions workflows](https://github.com/boostsecurityio/poutine-action) ⭐ 7 | 🐛 0 | 🌐 Dockerfile | 📅 2026-05-23
 * [advaitpatel/DockSec: AI-powered Docker security scanner that combines Trivy, Hadolint, and Docker Scout with AI analysis to explain vulnerabilities in plain English and suggest specific Dockerfile fixes](https://github.com/advaitpatel/DockSec) ⭐ 494 | 🐛 19 | 🌐 Python | 📅 2026-09-23
 * [quarkslab/kdigger: Kubernetes focused container assessment and context discovery tool for penetration testing](https://github.com/quarkslab/kdigger) ⭐ 487 | 🐛 1 | 🌐 Go | 📅 2025-11-07
@@ -489,8 +489,8 @@ Also see:
 * [cicd-sensor/cicd-sensor: eBPF-powered runtime security sensor for GitHub Actions and GitLab CI/CD pipelines, providing EDR-like visibility and detection of malicious process execution and supply chain attacks during builds](https://github.com/cicd-sensor/cicd-sensor) ⭐ 254 | 🐛 12 | 🌐 Go | 📅 2026-09-17 ([docs](https://cicd-sensor.github.io/))
 * [avilum/secimport: eBPF-based module-level sandboxing for Python applications, enforcing syscall restrictions per Python module to mitigate risks from vulnerable or malicious dependencies](https://github.com/avilum/secimport) ⭐ 243 | 🐛 2 | 🌐 Python | 📅 2026-03-18
   * Or [Cargo Vet](https://mozilla.github.io/cargo-vet/) and [crev-dev/cargo-crev: A cryptographically verifiable code review system for the cargo (Rust) package manager.](https://github.com/crev-dev/cargo-crev) ⭐ 2,337 | 🐛 52 | 🌐 Rust | 📅 2026-07-21
-  * Or [trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities](https://github.com/trailofbits/pip-audit) ⭐ 1,372 | 🐛 61 | 🌐 Python | 📅 2026-09-26
-    * And: [Use data-dist-info-metadata (PEP 658) to decouple resolution from downloading by cosmicexplorer · Pull Request #11111 · pypa/pip](https://github.com/pypa/pip/pull/11111) ⭐ 10,288 | 🐛 954 | 🌐 Python | 📅 2026-09-23
+  * Or [trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities](https://github.com/trailofbits/pip-audit) ⭐ 1,373 | 🐛 61 | 🌐 Python | 📅 2026-09-26
+    * And: [Use data-dist-info-metadata (PEP 658) to decouple resolution from downloading by cosmicexplorer · Pull Request #11111 · pypa/pip](https://github.com/pypa/pip/pull/11111) ⭐ 10,290 | 🐛 954 | 🌐 Python | 📅 2026-09-23
     * And [nuclear-treestump/pydepgate: Zero-dependency lightweight static analyzer for detecting supply chain attacks in Python code, with SARIF output, container attestation, and reproducible builds](https://github.com/nuclear-treestump/pydepgate) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2026-07-04
     * Also see: [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
   * Or [Checkmarx/chainjacking: Find which of your go lang direct GitHub dependencies is susceptible to ChainJacking attack](https://github.com/Checkmarx/chainjacking) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-05-22
@@ -498,11 +498,11 @@ Also see:
   * Or [Brakeman Security Scanner](https://brakemanscanner.org/)
   * Interesting Python-related project: [Project Thoth](https://thoth-station.ninja/), using Artificial Intelligence to analyse and recommend software stacks for Python applications
   * Not automated validation, but comprehensive guidance for Java with a few critical points relating to supply chain security: [Google Best Practices for Java Libraries](https://jlbp.dev/)
-* [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator) ⭐ 237 | 🐛 11 | 🌐 Go | 📅 2026-09-29
+* [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator) ⭐ 238 | 🐛 12 | 🌐 Go | 📅 2026-09-29
 * [boostsecurityio/bagel: Cross-platform CLI that audits developer workstations for supply chain security risks, inventorying dev tools, risky configurations, and secret metadata (never payloads) across Git, SSH, npm, cloud credentials, and IDE configurations](https://github.com/boostsecurityio/bagel) ⭐ 200 | 🐛 21 | 🌐 Go | 📅 2026-07-21
 * [sigstore/policy-controller: The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.](https://github.com/sigstore/policy-controller) ⭐ 182 | 🐛 91 | 🌐 Go | 📅 2026-09-28
   * Also see: [lukehinds/policy-controller-demo: demo of keyless signing with the sigstore kubernetes policy controller](https://github.com/lukehinds/policy-controller-demo) ⭐ 11 | 🐛 0 | 📅 2022-09-07
-* [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph) ⭐ 168 | 🐛 12 | 🌐 Go | 📅 2026-09-27
+* [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph) ⭐ 171 | 🐛 12 | 🌐 Go | 📅 2026-09-27
 * [spaceraccoon/vulnerability-spoiler-alert: AI-powered monitoring hub that watches open-source repositories and detects security vulnerability patches before CVEs are assigned, with RSS feed and web interface](https://github.com/spaceraccoon/vulnerability-spoiler-alert) ⭐ 161 | 🐛 637 | 🌐 JavaScript | 📅 2026-09-01
 * [reproducible-containers/repro-get: Reproducible apt/dnf/apk/pacman, with content-addressing](https://github.com/reproducible-containers/repro-get) ⚠️ Archived
 * [ckotzbauer/vulnerability-operator: Scans SBOMs for vulnerabilities](https://github.com/ckotzbauer/vulnerability-operator) ⭐ 88 | 🐛 21 | 🌐 Go | 📅 2026-09-26
@@ -513,7 +513,7 @@ Also see:
 * [openclarity/kubeclarity: KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems](https://github.com/openclarity/kubeclarity) ⚠️ Archived
 * [code-cargo/cargowall-action: Official GitHub Action for CargoWall that provides eBPF-based network egress filtering for GitHub Actions runners to prevent supply chain attacks and data exfiltration](https://github.com/code-cargo/cargowall-action) ⭐ 39 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-17
 * [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom) ⭐ 29 | 🐛 4 | 🌐 Go | 📅 2026-04-24
-* [kusari-oss/darnit: Pluggable compliance audit framework generating cryptographic attestations and automating remediation for software engineering best practices including security, testing, build reproducibility, and governance](https://github.com/kusari-oss/darnit) ⭐ 22 | 🐛 119 | 🌐 Python | 📅 2026-09-29
+* [kusari-oss/darnit: Pluggable compliance audit framework generating cryptographic attestations and automating remediation for software engineering best practices including security, testing, build reproducibility, and governance](https://github.com/kusari-oss/darnit) ⭐ 22 | 🐛 131 | 🌐 Python | 📅 2026-09-29
 * [hashgraph-online/codex-plugin-scanner: Security and best-practices scanner for OpenAI Codex CLI plugins. Scores plugins 0-100 across manifest validation, secret detection, MCP transport hardening, GitHub Actions security, and best practices. Outputs SARIF for CI integration](https://github.com/hashgraph-online/codex-plugin-scanner) ⚠️ Archived
 * [chains-project/goleash: eBPF-based runtime policy enforcement for Go applications, enforcing least privilege at the package level to detect and block malicious behavior from compromised dependencies](https://github.com/chains-project/goleash) ⭐ 20 | 🐛 1 | 🌐 C | 📅 2026-09-21
 * [netskopeoss/beam: Behavioral Evaluation of Application Metrics (BEAM) detects supply chain compromises by analyzing network traffic](https://github.com/netskopeoss/beam) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2026-07-28 using machine learning and SHAP explainability to identify malicious behavior patterns
@@ -521,7 +521,7 @@ Also see:
 * [aflock-ai/cilock-action: GitHub Actions security hardening tool that enforces CI/CD pipeline best practices including environment isolation, secret protection, and dependency verification](https://github.com/aflock-ai/cilock-action) ⭐ 5 | 🐛 3 | 🌐 Go | 📅 2026-09-23
 * [luisfontes19/watchtower: VS Code security scanner extension that detects malicious configurations and hidden threats in development environments including Unicode steganography attacks, malicious tasks, and compromised dependencies](https://github.com/luisfontes19/watchtower) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-18
 * [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-09-21
-* [asfaload/checksums: Repository holding checksums of internet artifacts to improve security of downloads by hosting duplicate verification points](https://github.com/asfaload/checksums) ⭐ 1 | 🐛 0 | 📅 2026-09-29
+* [asfaload/checksums: Repository holding checksums of internet artifacts to improve security of downloads by hosting duplicate verification points](https://github.com/asfaload/checksums) ⭐ 1 | 🐛 0 | 📅 2026-09-30
 * [nick79/diffguard: LLM-powered security review for staged git diffs with AST-aware context, CWE mappings, framework detection (Django, Flask, Rails, Laravel, etc.), and configurable severity thresholds](https://github.com/nick79/diffguard) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-23
 * [Kyverno](https://kyverno.io/)
   * Also: [testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library](https://github.com/testifysec/judge-k8s) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2022-02-11
@@ -533,28 +533,28 @@ Also see:
   * Read: [GitHub Artifact Attestations OPA Provider: Enforce admission policies with artifact attestations in Kubernetes](https://github.blog/changelog/2025-06-23-enforce-admission-policies-with-artifact-attestations-in-kubernetes-using-opa-gatekeeper/) - integrating GitHub Artifact Attestations (build provenance, SBOM, custom) with OPA Gatekeeper for Kubernetes admission control
 * [GitLab Libbehave (Experiment): Scans dependencies during merge request pipelines to identify newly added libraries and their risky behaviors](https://docs.gitlab.com/user/application_security/dependency_scanning/experiment_libbehave_dependency/) - assigning riskiness scores for behaviors like OS command execution, dynamic code evaluation, and file system access
 * Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
-  * e.g., [pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety) ⭐ 1,998 | 🐛 99 | 🌐 Python | 📅 2026-09-04
+  * e.g., [pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety) ⭐ 1,999 | 🐛 99 | 🌐 Python | 📅 2026-09-04
     * Or [npm-audit](https://docs.npmjs.com/cli/v8/commands/npm-audit)
       * And [lirantal/lockfile-lint: Lint an npm or yarn lockfile to analyze and detect security issues](https://github.com/lirantal/lockfile-lint) ⭐ 870 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-13
       * Also see [snyk-labs/snync: Mitigate security concerns of Dependency Confusion supply chain security risks](https://github.com/snyk-labs/snync) ⭐ 53 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-10
       * [KTH-LangSec/nodeshield: Runtime enforcement of SBOMs and Capabilities Bill of Materials (CBOM) for Node.js to prevent supply chain attacks](https://github.com/KTH-LangSec/nodeshield) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-28
       * And [KoblerS/np-audit: Static security analyzer for npm packages detecting obfuscated lifecycle scripts, known vulnerabilities, and malicious patterns before installation, with zero dependencies and drop-in `npm install`/`npm ci` replacement](https://github.com/KoblerS/np-audit) ⭐ 7 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-18
 * Static analysis is often used at this stage in order to detect dependency acquisition, e.g.:
-  * [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair) ⭐ 11,066 | 🐛 59 | 🌐 Go | 📅 2026-09-28
-  * [graudit/signatures at master · wireghoul/graudit](https://github.com/wireghoul/graudit/tree/master/signatures) ⭐ 1,689 | 🐛 0 | 🌐 Shell | 📅 2025-12-19
-  * [eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda) ⭐ 1,250 | 🐛 25 | 🌐 Python | 📅 2023-05-23
+  * [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair) ⭐ 11,066 | 🐛 59 | 🌐 Go | 📅 2026-09-29
+  * [graudit/signatures at master · wireghoul/graudit](https://github.com/wireghoul/graudit/tree/master/signatures) ⭐ 1,690 | 🐛 0 | 🌐 Shell | 📅 2025-12-19
+  * [eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda) ⭐ 1,251 | 🐛 25 | 🌐 Python | 📅 2023-05-23
     * Half brilliant, half funny, full helpful: [kpcyrd/libredefender: Imagine the information security compliance guideline says you need an antivirus but you run Arch Linux](https://github.com/kpcyrd/libredefender) ⭐ 136 | 🐛 10 | 🌐 Rust | 📅 2024-03-21
-  * [DataDog/guarddog: GuardDog is a CLI tool to Identify malicious PyPI and npm packages](https://github.com/datadog/guarddog) ⭐ 1,221 | 🐛 34 | 🌐 Python | 📅 2026-09-22
-  * [target/strelka: Real-time, container-based file scanning system for threat hunting, detection, and incident response with file extraction and metadata collection at enterprise scale](https://github.com/target/strelka) ⭐ 1,002 | 🐛 16 | 🌐 Python | 📅 2026-09-26
+  * [DataDog/guarddog: GuardDog is a CLI tool to Identify malicious PyPI and npm packages](https://github.com/datadog/guarddog) ⭐ 1,222 | 🐛 36 | 🌐 Python | 📅 2026-09-29
+  * [target/strelka: Real-time, container-based file scanning system for threat hunting, detection, and incident response with file extraction and metadata collection at enterprise scale](https://github.com/target/strelka) ⭐ 1,003 | 🐛 16 | 🌐 Python | 📅 2026-09-26
   * [banyanops/collector: A framework for Static Analysis of Docker container images](https://github.com/banyanops/collector) ⭐ 286 | 🐛 9 | 🌐 Go | 📅 2019-08-26
   * [Semgrep](https://semgrep.dev/)
     * [Getting started with Semgrep Supply Chain](https://semgrep.dev/docs/semgrep-sc/scanning-open-source-dependencies/)
     * Also see: [Catching Security Vulnerabilities With Semgrep](https://www.codedbrain.com/catching-security-vulnerabilities-with-semgrep/)
 * [Mandiant capa: Reverse engineering tool that recognizes behaviors in binaries through expert-crafted rules for API calls, constants, and strings; supports static and dynamic analysis via IDA Pro, Binary Ninja, and Ghidra](https://mandiant.github.io/capa/)
 * [KICS - Keeping Infrastructure as Code Secure](https://kics.io/)
-  * `hadolint` rules on package installation, e.g., [hadolint/README.md at d16f342c8e70fcffc7a788d122a1ba602075250d · hadolint/hadolint](https://github.com/hadolint/hadolint/blob/d16f342c8e70fcffc7a788d122a1ba602075250d/README.md#rules) ⭐ 12,439 | 🐛 204 | 🌐 Haskell | 📅 2026-09-25
-    * Also [dockerfile resource scans - checkov](https://www.checkov.io/5.Policy%20Index/dockerfile.html) from [bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov) ⭐ 9,040 | 🐛 180 | 🌐 Python | 📅 2026-09-27
-    * And: [aws-samples/automated-security-helper](https://github.com/aws-samples/automated-security-helper) ⭐ 695 | 🐛 26 | 🌐 Python | 📅 2026-09-281
+  * `hadolint` rules on package installation, e.g., [hadolint/README.md at d16f342c8e70fcffc7a788d122a1ba602075250d · hadolint/hadolint](https://github.com/hadolint/hadolint/blob/d16f342c8e70fcffc7a788d122a1ba602075250d/README.md#rules) ⭐ 12,444 | 🐛 204 | 🌐 Haskell | 📅 2026-09-25
+    * Also [dockerfile resource scans - checkov](https://www.checkov.io/5.Policy%20Index/dockerfile.html) from [bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov) ⭐ 9,044 | 🐛 181 | 🌐 Python | 📅 2026-09-29
+    * And: [aws-samples/automated-security-helper](https://github.com/aws-samples/automated-security-helper) ⭐ 695 | 🐛 18 | 🌐 Python | 📅 2026-09-301
     * And: [xlab-si/iac-scan-runner: Service that scans your Infrastructure as Code for common vulnerabilities](https://github.com/xlab-si/iac-scan-runner) ⭐ 49 | 🐛 8 | 🌐 Python | 📅 2023-12-14
     * And: [GeekMasher/quibble](https://github.com/GeekMasher/quibble) ⭐ 11 | 🐛 3 | 🌐 Rust | 📅 2026-02-16, a Rust-based security linter for Docker and Podman Compose files that checks for socket mounting, untrusted registries, hardcoded secrets and more. Read the [intro post](https://geekmasher.dev/sec/quibble/22-12-08--quibble-intro/)
   * [tinkerbell/lint-install: Consistently install reasonable linter rules for open-source projects](https://github.com/tinkerbell/lint-install) ⭐ 7 | 🐛 4 | 🌐 Go | 📅 2023-05-05
@@ -566,7 +566,7 @@ Also see:
 
 Also see:
 
-* [analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.](https://github.com/analysis-tools-dev/static-analysis/) ⭐ 14,811 | 🐛 0 | 🌐 Rust | 📅 2026-09-21
+* [analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.](https://github.com/analysis-tools-dev/static-analysis/) ⭐ 14,813 | 🐛 0 | 🌐 Rust | 📅 2026-09-21
 * [anderseknert/awesome-opa: A curated list of OPA related tools, frameworks and articles](https://github.com/anderseknert/awesome-opa) ⭐ 901 | 🐛 5 | 📅 2026-09-18
 * [JupiterOne/secops-automation-examples: Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.](https://github.com/JupiterOne/secops-automation-examples) ⭐ 54 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-26
   * [How We Generate a Software Bill of Materials (SBOM) with CycloneDX](https://try.jupiterone.com/how-we-generate-a-software-bill-of-materials-sbom-with-cyclonedx)
@@ -591,8 +591,8 @@ And a few things to watch beyond libraries and software dependencies:
 
 > This section includes: projects and discussions specifics to developer identity, OIDC, keyrings and related topics.
 
-* [goharbor/harbor: Trusted cloud native registry project supporting content signing and verification, RBAC, and vulnerability scanning for OCI artifacts](https://github.com/goharbor/harbor) ⭐ 29,471 | 🐛 916 | 🌐 Go | 📅 2026-09-28
-* [Allow using SSH keys to sign commits · Discussion #7744 · github/feedback](https://github.com/github/feedback/discussions/7744#discussioncomment-1794438) ⭐ 8,804 | 🐛 0 | 🌐 Ruby | 📅 2026-09-09
+* [goharbor/harbor: Trusted cloud native registry project supporting content signing and verification, RBAC, and vulnerability scanning for OCI artifacts](https://github.com/goharbor/harbor) ⭐ 29,475 | 🐛 923 | 🌐 Go | 📅 2026-09-29
+* [Allow using SSH keys to sign commits · Discussion #7744 · github/feedback](https://github.com/github/feedback/discussions/7744#discussioncomment-1794438) ⭐ 8,807 | 🐛 0 | 🌐 Ruby | 📅 2026-09-09
 * [google/trillian: A transparent, highly scalable and cryptographically verifiable data store.](https://github.com/google/trillian) ⭐ 3,754 | 🐛 45 | 🌐 Go | 📅 2026-09-21
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary) ⚠️ Archived
   * [notaryproject/notation: Notation is a project to add signatures as standard items in the registry ecosystem, and to build a set of simple tooling for signing and verifying these signatures. Based on Notary V2 standard.](https://github.com/notaryproject/notation) ⭐ 497 | 🐛 76 | 🌐 Go | 📅 2026-09-25
@@ -603,14 +603,14 @@ And a few things to watch beyond libraries and software dependencies:
     * Check out [Python-TUF reaches version 1.0.0](https://ssl.engineering.nyu.edu/blog/2022-02-21-tuf-1_0_0)
     * Read: [Secure Software Updates via TUF — Part 2](https://medium.com/@mulgundmath/secure-software-updates-via-tuf-part-2-412c6a2b10ab)
   * [notaryproject/roadmap: Roadmap for NotaryV2](https://github.com/notaryproject/roadmap) ⚠️ Archived
-* [spiffe/spire: The SPIFFE Runtime Environment](https://github.com/spiffe/spire) ⭐ 2,559 | 🐛 117 | 🌐 Go | 📅 2026-09-28
-* [stacklok/toolhive: MCP server deployment platform with Sigstore-based provenance verification and attestation support for container images and binaries](https://github.com/stacklok/toolhive) ⭐ 2,222 | 🐛 368 | 🌐 Go | 📅 2026-09-29
+* [spiffe/spire: The SPIFFE Runtime Environment](https://github.com/spiffe/spire) ⭐ 2,561 | 🐛 115 | 🌐 Go | 📅 2026-09-29
+* [stacklok/toolhive: MCP server deployment platform with Sigstore-based provenance verification and attestation support for container images and binaries](https://github.com/stacklok/toolhive) ⭐ 2,226 | 🐛 369 | 🌐 Go | 📅 2026-09-29
 * [latchset/tang: Tang binding daemon](https://github.com/latchset/tang) ⭐ 738 | 🐛 42 | 🌐 C | 📅 2025-03-06
 * [recipy/recipy: Effortless method to record provenance in Python](https://github.com/recipy/recipy) ⭐ 435 | 🐛 90 | 🌐 Python | 📅 2022-01-12
 * [deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify) ⭐ 307 | 🐛 170 | 🌐 Go | 📅 2026-09-29
 * [pyrsia/pyrsia: Decentralized Package Network](https://github.com/pyrsia/pyrsia) ⭐ 306 | 🐛 241 | 🌐 Rust | 📅 2023-11-03
 * [cashapp/pivit](https://github.com/cashapp/pivit) ⭐ 100 | 🐛 6 | 🌐 Go | 📅 2026-06-18 is a command line tool for managing x509 certificates stored on smart cards with PIV applet support that is fully compatible with `git`
-* [trustcheck](https://github.com/Halfblood-Prince/trustcheck) ⭐ 77 | 🐛 3 | 🌐 Python | 📅 2026-09-28 – Verify PyPI packages using attestations and provenance before installing them.
+* [trustcheck](https://github.com/Halfblood-Prince/trustcheck) ⭐ 77 | 🐛 3 | 🌐 Python | 📅 2026-09-29 – Verify PyPI packages using attestations and provenance before installing them.
 * [oras-project/artifacts-spec](https://github.com/oras-project/artifacts-spec/) ⚠️ Archived
 * [Fraunhofer-SIT/charra: Proof-of-concept implementation of the "Challenge/Response Remote Attestation" interaction model of the IETF RATS Reference Interaction Models for Remote Attestation Procedures using TPM 2.0.](https://github.com/Fraunhofer-SIT/charra) ⭐ 42 | 🐛 0 | 🌐 C | 📅 2026-09-20
 * [paragonie/libgossamer: Public Key Infrastructure without Certificate Authorities, for WordPress and Packagist](https://github.com/paragonie/libgossamer) ⚠️ Archived
@@ -618,8 +618,8 @@ And a few things to watch beyond libraries and software dependencies:
 * [kusaridev/spector](https://github.com/kusaridev/spector) ⚠️ Archived is a Rust tool and library for strict generation, validation and verification of supply chain metadata documents, supporting SLSA 1.0 Provenance and in-toto 1.0 Statement. Read the [announcement](https://www.kusari.dev/blog/kusari-open-sources-spector)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg) ⭐ 29 | 🐛 6 | 🌐 Shell | 📅 2020-02-20
 * [aws-solutions/verifiable-controls-evidence-store: This repository contains the source code of the Verifiable Controls Evidence Store solution](https://github.com/aws-solutions/verifiable-controls-evidence-store) ⚠️ Archived
-* [asfaload/asfaload: Open-source self-hostable multisignature sign-off solution for securing artifact downloads, container image validation, and deployment approval workflows with configurable m-of-n signature thresholds](https://github.com/asfaload/asfaload) ⭐ 16 | 🐛 31 | 🌐 Rust | 📅 2026-09-25 ([docs](https://asfaload.com/doc/))
-  * [sigstore/helm-sigstore: Helm plugin for publishing and verifying signed Helm charts in the Rekor transparency log](https://github.com/sigstore/helm-sigstore) ⭐ 71 | 🐛 15 | 🌐 Go | 📅 2026-09-02 and [sigstore/helm-charts: Helm charts for deploying sigstore components in Kubernetes](https://github.com/sigstore/helm-charts) ⭐ 94 | 🐛 59 | 🌐 Go Template | 📅 2026-09-28
+* [asfaload/asfaload: Open-source self-hostable multisignature sign-off solution for securing artifact downloads, container image validation, and deployment approval workflows with configurable m-of-n signature thresholds](https://github.com/asfaload/asfaload) ⭐ 16 | 🐛 31 | 🌐 Rust | 📅 2026-09-30 ([docs](https://asfaload.com/doc/))
+  * [sigstore/helm-sigstore: Helm plugin for publishing and verifying signed Helm charts in the Rekor transparency log](https://github.com/sigstore/helm-sigstore) ⭐ 71 | 🐛 15 | 🌐 Go | 📅 2026-09-02 and [sigstore/helm-charts: Helm charts for deploying sigstore components in Kubernetes](https://github.com/sigstore/helm-charts) ⭐ 94 | 🐛 58 | 🌐 Go Template | 📅 2026-09-29
 * [puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.](https://github.com/puerco/tejolote) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-08-12
 * [transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers & Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main) ⭐ 1 | 🐛 3 | 🌐 JavaScript | 📅 2022-03-20
 * [sns45/forgeseal: Supply chain security CLI for JS/TS that generates CycloneDX SBOMs from lockfiles, signs with Sigstore keyless signing, produces SLSA v1 provenance attestations, and triages vulnerabilities via OSV.dev](https://github.com/sns45/forgeseal) ⭐ 0 | 🐛 1 | 🌐 Go | 📅 2026-07-26
@@ -659,18 +659,18 @@ And a few things to watch beyond libraries and software dependencies:
 
 > This section includes: reference architectures and authoritative compilations of supply chain attacks and the emerging categories.
 
-* OpenSSF's [Concise Guide for Developing More Secure Software 2022-09-01](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md#readme) ⭐ 1,070 | 🐛 94 | 🌐 JavaScript | 📅 2026-09-26
+* OpenSSF's [Concise Guide for Developing More Secure Software 2022-09-01](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md#readme) ⭐ 1,072 | 🐛 94 | 🌐 JavaScript | 📅 2026-09-30
 * [CIS Software Supply Chain Security Guide](https://github.com/aquasecurity/chain-bench/blob/main/docs/CIS-Software-Supply-Chain-Security-Guide-v1.0.pdf) ⭐ 772 | 🐛 19 | 🌐 Go | 📅 2024-12-11
 * The *Supply Chain Risk Management* section of [SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), also see [center-for-threat-informed-defense/attack-control-framework-mappings: Security control framework mappings to MITRE ATT\&CK](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings) ⚠️ Archived
 * [boostsecurityio/smokedmeat: CI/CD red team framework for testing GitHub Actions workflows and pipeline security, exposing CI/CD risks including Log4Shell-like exploits, script injection, and exfiltration vulnerabilities](https://github.com/boostsecurityio/smokedmeat) ⭐ 382 | 🐛 20 | 🌐 Go | 📅 2026-09-17
 * [microsoft/oss-ssc-framework: Open Source Software Secure Supply Chain Framework](https://github.com/microsoft/oss-ssc-framework) ⚠️ Archived
-* [praetorian-inc/trajan: Multi-platform CI/CD security scanner for detecting pipeline configuration weaknesses across GitHub Actions, GitLab CI, Azure DevOps, Jenkins, and JFrog](https://github.com/praetorian-inc/trajan) ⭐ 187 | 🐛 3 | 🌐 Go | 📅 2026-09-27
+* [praetorian-inc/trajan: Multi-platform CI/CD security scanner for detecting pipeline configuration weaknesses across GitHub Actions, GitLab CI, Azure DevOps, Jenkins, and JFrog](https://github.com/praetorian-inc/trajan) ⭐ 187 | 🐛 4 | 🌐 Go | 📅 2026-09-29
 * [wiz-sec-public/SITF: SDLC Infrastructure Threat Framework providing comprehensive taxonomy of attacks targeting software development lifecycle with interactive attack flow builder, techniques library, and Claude AI skills for threat modeling](https://github.com/wiz-sec-public/SITF) ⭐ 181 | 🐛 0 | 🌐 HTML | 📅 2026-07-29 ([visualizer](https://wiz-sec-public.github.io/SITF/visualizer.html))
 * [OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard) ⭐ 170 | 🐛 11 | 🌐 Python | 📅 2025-04-01
   * Also see: [OWASP SCVS BOM Maturity Model](https://scvs.owasp.org/bom-maturity-model/), a formalized taxonomy for evaluating bill of materials capabilities and supporting organizational policies
 * [npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md) ⚠️ Archived (OpenSSF) - Features and recommendations on using npm safely
-* [boostsecurityio/lotp: "Living Off the Pipeline" — inventory and techniques database of development tool abuse capabilities, documenting how CI/CD tools and build pipelines can be exploited for supply chain attacks](https://github.com/boostsecurityio/lotp) ⭐ 164 | 🐛 31 | 🌐 HTML | 📅 2026-07-31
-* [CycloneDX/transparency-exchange-api: OWASP Transparency Exchange API (TEA) standard for exchanging SBOM and vulnerability information, standardized in ECMA TC54](https://github.com/CycloneDX/transparency-exchange-api) ⭐ 117 | 🐛 74 | 🌐 Shell | 📅 2026-09-24
+* [boostsecurityio/lotp: "Living Off the Pipeline" — inventory and techniques database of development tool abuse capabilities, documenting how CI/CD tools and build pipelines can be exploited for supply chain attacks](https://github.com/boostsecurityio/lotp) ⭐ 163 | 🐛 31 | 🌐 HTML | 📅 2026-07-31
+* [CycloneDX/transparency-exchange-api: OWASP Transparency Exchange API (TEA) standard for exchanging SBOM and vulnerability information, standardized in ECMA TC54](https://github.com/CycloneDX/transparency-exchange-api) ⭐ 117 | 🐛 73 | 🌐 Shell | 📅 2026-09-29
 * [microsoft/scim: Supply Chain Integrity Model](https://github.com/microsoft/SCIM) ⚠️ Archived
   * Also see: [Supply Chain Integrity, Transparency, and Trust (scitt)](https://datatracker.ietf.org/group/scitt/about/) and [What Is SCITT](https://scitt.io/)
 * [SecureStackCo/visualizing-software-supply-chain: A visual taxonomy and contextual mapping of software supply chain components](https://github.com/SecureStackCo/visualizing-software-supply-chain) ⭐ 58 | 🐛 0 | 📅 2023-09-09 organized across 10 stages (People, Local Requirements, Source Code, Integration, Deployment, Runtime, Hardware, DNS, Services, Cloud) with examples of technologies and vendors
@@ -723,28 +723,28 @@ Also see:
 > This section includes: reproducible builds, hermetic builds, bootstrappable builds, special considerations for CI/CD systems, best practices building artifacts such as OCI containers, etc.
 
 * [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko) ⚠️ Archived
-* [securego/gosec: Go static analysis tool that detects security problems by scanning the Go AST, enforcing secure coding practices](https://github.com/securego/gosec) ⭐ 8,955 | 🐛 10 | 🌐 Go | 📅 2026-09-29
+* [securego/gosec: Go static analysis tool that detects security problems by scanning the Go AST, enforcing secure coding practices](https://github.com/securego/gosec) ⭐ 8,959 | 🐛 10 | 🌐 Go | 📅 2026-09-29
 * [google/santa: A binary authorization system for macOS](https://github.com/google/santa) ⚠️ Archived
 * [tag-security/sscsp.md at main · cncf/tag-security](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/sscsp.md) ⚠️ Archived
-* [defenseunicorns/zarf: DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/](https://github.com/defenseunicorns/zarf) ⭐ 2,056 | 🐛 286 | 🌐 Go | 📅 2026-09-28
-* [project-copacetic/copacetic: CLI tool for directly patching container images using vulnerability reports from scanners like Trivy, enabling targeted OS package updates without rebuilding images](https://github.com/project-copacetic/copacetic) ⭐ 1,715 | 🐛 32 | 🌐 Go | 📅 2026-09-25
+* [defenseunicorns/zarf: DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/](https://github.com/defenseunicorns/zarf) ⭐ 2,059 | 🐛 288 | 🌐 Go | 📅 2026-09-30
+* [project-copacetic/copacetic: CLI tool for directly patching container images using vulnerability reports from scanners like Trivy, enabling targeted OS package updates without rebuilding images](https://github.com/project-copacetic/copacetic) ⭐ 1,718 | 🐛 32 | 🌐 Go | 📅 2026-09-25
 * [trailofbits/buttercup: AI-driven cyber reasoning system for automated vulnerability discovery and patching in open-source code repositories using fuzzing and multi-agent LLM-based patching](https://github.com/trailofbits/buttercup) ⭐ 1,714 | 🐛 61 | 🌐 Python | 📅 2026-09-28
-* [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar) ⭐ 1,455 | 🐛 71 | 🌐 Go | 📅 2026-09-25
+* [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar) ⭐ 1,456 | 🐛 71 | 🌐 Go | 📅 2026-09-25
 * [sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.](https://github.com/sethvargo/ratchet) ⭐ 966 | 🐛 2 | 🌐 Go | 📅 2026-07-18
-* [Legit-Labs/legitify: Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets](https://github.com/Legit-Labs/legitify) ⭐ 889 | 🐛 18 | 🌐 Go | 📅 2026-08-31
+* [Legit-Labs/legitify: Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets](https://github.com/Legit-Labs/legitify) ⭐ 888 | 🐛 18 | 🌐 Go | 📅 2026-08-31
 * [rust-secure-code/cargo-auditable: Embed the Cargo dependency tree in your Rust binaries](https://github.com/rust-secure-code/cargo-auditable) ⭐ 860 | 🐛 17 | 🌐 Rust | 📅 2026-09-13, enabling vulnerability auditing of compiled Rust binaries with zero bookkeeping; supported by cargo-audit, Trivy, Grype, and other tools
 * [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench) ⭐ 772 | 🐛 19 | 🌐 Go | 📅 2024-12-11 implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/)
-* [knostic/OpenAnt: LLM-based vulnerability discovery tool for proactively finding verified security flaws while minimizing false positives and negatives, supporting Go, Python, JavaScript/TypeScript, C/C++, PHP, and Ruby](https://github.com/knostic/OpenAnt) ⭐ 755 | 🐛 82 | 🌐 Python | 📅 2026-09-28
-* [google/oss-rebuild: Automate reproducible building and generate SLSA Provenance for Python, JavaScript/TypeScript, and Rust packages to detect supply chain compromises](https://github.com/google/oss-rebuild) ⭐ 714 | 🐛 235 | 🌐 Go | 📅 2026-09-28, with build observability, dynamic analysis, and support for historical package attestation
+* [knostic/OpenAnt: LLM-based vulnerability discovery tool for proactively finding verified security flaws while minimizing false positives and negatives, supporting Go, Python, JavaScript/TypeScript, C/C++, PHP, and Ruby](https://github.com/knostic/OpenAnt) ⭐ 756 | 🐛 82 | 🌐 Python | 📅 2026-09-30
+* [google/oss-rebuild: Automate reproducible building and generate SLSA Provenance for Python, JavaScript/TypeScript, and Rust packages to detect supply chain compromises](https://github.com/google/oss-rebuild) ⭐ 715 | 🐛 235 | 🌐 Go | 📅 2026-09-28, with build observability, dynamic analysis, and support for historical package attestation
 * [globocom/huskyCI: Orchestrates security tests and centralizes results for analysis and metrics across multiple languages (Python, Ruby, JavaScript, Go, Java, HCL)](https://github.com/globocom/huskyCI) ⭐ 597 | 🐛 25 | 🌐 Go | 📅 2024-05-15, including SAST tools, secrets scanning with GitLeaks, and SCA tools
-* [chainloop-dev/chainloop: Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process.](https://github.com/chainloop-dev/chainloop) ⭐ 582 | 🐛 23 | 🌐 Go | 📅 2026-09-29
+* [chainloop-dev/chainloop: Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process.](https://github.com/chainloop-dev/chainloop) ⭐ 582 | 🐛 22 | 🌐 Go | 📅 2026-09-30
   * Also see: [Software Supply Chain Attestation the Easy Way](https://docs.chainloop.dev/blog/software-supply-chain-attestation-easy-way) from the Chainloop documentation
   * Read: [Attestation concepts](https://docs.chainloop.dev/concepts/attestations) covers the attestation lifecycle (`init`, `add`, `push`) and Sigstore bundle format used by Chainloop
 * [kpcyrd/rebuilderd: Independent verification of binary packages - reproducible builds](https://github.com/kpcyrd/rebuilderd) ⭐ 429 | 🐛 52 | 🌐 Rust | 📅 2026-09-26
 * [oss-reproducible](https://github.com/microsoft/OSSGadget/tree/main/src/oss-reproducible) ⭐ 371 | 🐛 66 | 🌐 C# | 📅 2026-07-31 - Measures the reproducibility of a package based on its purported source. Part of [OSS Gadget](https://github.com/microsoft/OSSGadget) ⭐ 371 | 🐛 66 | 🌐 C# | 📅 2026-07-31
 * [garnix-io/garn: Build tool and development environment manager using declarative TypeScript configuration to encode project dependencies, build steps, and development environment in a single reproducible definition](https://github.com/garnix-io/garn) ⭐ 343 | 🐛 70 | 🌐 TypeScript | 📅 2026-04-14
 * [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur) ⚠️ Archived
-* [tektoncd/chains: Supply Chain Security in Tekton Pipelines](https://github.com/tektoncd/chains) ⭐ 277 | 🐛 72 | 🌐 Go | 📅 2026-09-29
+* [tektoncd/chains: Supply Chain Security in Tekton Pipelines](https://github.com/tektoncd/chains) ⭐ 277 | 🐛 73 | 🌐 Go | 📅 2026-09-29
   * [Verifiable Supply Chain Metadata for Tekton - CD Foundation](https://cd.foundation/blog/2021/06/18/verifiable-supply-chain-metadata-for-tekton/)
 * [buildsec/frsca](https://github.com/buildsec/frsca) ⭐ 260 | 🐛 34 | 🌐 CUE | 📅 2026-09-28 is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attestations for SLSA provenance predicates.
 * [jart/landlock-make: Sandboxing for GNU Make has never been easier](https://github.com/jart/landlock-make) ⭐ 259 | 🐛 0 | 🌐 C++ | 📅 2022-11-02
@@ -762,9 +762,9 @@ Also see:
 * [eellak/build-recorder](https://github.com/eellak/build-recorder) ⭐ 31 | 🐛 33 | 🌐 C | 📅 2024-12-10
   * Also see: [FOSDEM 2023 - Build recorder: a system to capture detailed information](https://fosdem.org/2023/schedule/event/sbom_build_recorder/)
 * [kusaridev/skootrs](https://github.com/kusaridev/skootrs) ⚠️ Archived is a CLI tool for creating secure-by-design/default source repos with security best practices built in
-* [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) ⭐ 26 | 🐛 8 | 🌐 Java | 📅 2026-09-25, a GitHub App for pull-request vulnerability analysis and SBOM creation/upload to Dependency-Track, wrapping CDXGen, SBOMQS, and dep-scan/Grype
+* [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) ⭐ 26 | 🐛 8 | 🌐 Java | 📅 2026-09-30, a GitHub App for pull-request vulnerability analysis and SBOM creation/upload to Dependency-Track, wrapping CDXGen, SBOMQS, and dep-scan/Grype
 * [wspr-ncsu/github-actions-security-analysis](https://github.com/wspr-ncsu/github-actions-security-analysis) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-26 from [Characterizing the Security of Github CI Workflows | USENIX](https://www.usenix.org/conference/usenixsecurity22/presentation/koishybayev)
-* [dash14/buildcage: Restricts outbound network access during Docker builds per RUN step via SNI-based domain filtering, working as a drop-in BuildKit remote driver with ready-to-use GitHub Actions](https://github.com/dash14/buildcage) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-29
+* [dash14/buildcage: Restricts outbound network access during Docker builds per RUN step via SNI-based domain filtering, working as a drop-in BuildKit remote driver with ready-to-use GitHub Actions](https://github.com/dash14/buildcage) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30
 * [fepitre/package-rebuilder: Standalone orchestrator for rebuilding Debian, Fedora and Qubes OS packages in order to generate `in-toto` metadata which can be used with `apt-transport-in-toto` or `dnf-plugin-in-toto` to validate reproducible status.](https://github.com/fepitre/package-rebuilder) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2022-11-04
 * [Fraunhofer-AISEC/supply-graph: Graph-based analysis tool for detecting supply chain attacks in build systems by tracing source-to-binary relationships (research/FOSDEM 2025 demonstration project using XZ CVE-2024-3094)](https://github.com/Fraunhofer-AISEC/supply-graph) ⭐ 7 | 🐛 4 | 🌐 C++ | 📅 2026-05-13
 * [buildsec/vendorme](https://github.com/buildsec/vendorme) ⭐ 7 | 🐛 3 | 🌐 Go | 📅 2026-07-21 improves the developer workflow by giving you one single place to manage any vendored dependencies, and ensures that those are validated properly to improve the security around your supply chain
@@ -791,7 +791,7 @@ Also see:
 
 Also see:
 
-* [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat) ⭐ 2,308 | 🐛 0 | 🌐 Python | 📅 2024-07-14
+* [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat) ⭐ 2,310 | 🐛 0 | 🌐 Python | 📅 2024-07-14
   * And: [step-security/attack-simulator: Simulate past supply chain attacks such as SolarWinds, Codecov, and ua-parser-js](https://github.com/step-security/attack-simulator) ⭐ 519 | 🐛 21 | 🌐 JavaScript | 📅 2025-06-27
 * [Handling build-time dependency vulnerabilities](https://hackmd.io/@VOkN52x7RbeXS-3vr4XOgg/BJBDNYK0F) from [Create guidance on triaging build time dependency vulnerabilities · Issue #855 · cncf/tag-security](https://github.com/cncf/tag-security/issues/855) ⚠️ Archived
 * [kpcyrd/archlinux-inputs-fsck: Lint repository of PKGBUILDs for cryptographically pinned inputs](https://github.com/kpcyrd/archlinux-inputs-fsck) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2023-01-03
@@ -799,8 +799,8 @@ Also see:
 * The [reproducible-builds](https://github.com/topics/reproducible-builds) topic on GitHub
 * [Dependency management](https://cloud.google.com/artifact-registry/docs/dependencies) as part of Google Cloud's Artifact Registry documentation
 * [Security hardening for GitHub Actions](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions)
-  * And: [zizmor: Static analysis for GitHub Actions workflows to identify insecure CI/CD patterns](https://github.com/zizmorcore/zizmor) ⭐ 6,597 | 🐛 161 | 🌐 Rust | 📅 2026-09-29
-  * And: [step-security/harden-runner: Security agent for GitHub-hosted runner: block egress traffic & detect code overwrite to prevent breaches](https://github.com/step-security/harden-runner) ⭐ 1,277 | 🐛 57 | 🌐 TypeScript | 📅 2026-09-24
+  * And: [zizmor: Static analysis for GitHub Actions workflows to identify insecure CI/CD patterns](https://github.com/zizmorcore/zizmor) ⭐ 6,608 | 🐛 162 | 🌐 Rust | 📅 2026-09-30
+  * And: [step-security/harden-runner: Security agent for GitHub-hosted runner: block egress traffic & detect code overwrite to prevent breaches](https://github.com/step-security/harden-runner) ⭐ 1,278 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-30
   * And: [StepSecurity Action Advisor](https://app.stepsecurity.io/action-advisor), a tool that scores GitHub Actions for security and suggests maintained alternatives
 * [Code Sight](https://www.synopsys.com/software-integrity/code-sight.html)
 * Read: [What Makes a Build Reproducible, Part 2](https://blogs.vmware.com/opensource/2022/07/14/what-makes-a-build-reproducible-part-2/)
@@ -816,7 +816,7 @@ Also see:
 
 * A few resources, in addition to this repository, that can help keep up with news and announcements:
   * [tag-security/cloud-native-security-lexicon.md at main · cncf/tag-security](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md) ⚠️ Archived
-  * [slsa/terminology.md at main · slsa-framework/slsa](https://github.com/slsa-framework/slsa/blob/main/docs/_spec/v0.1/terminology.md) ⭐ 1,939 | 🐛 176 | 🌐 HTML | 📅 2026-09-16
+  * [slsa/terminology.md at main · slsa-framework/slsa](https://github.com/slsa-framework/slsa/blob/main/docs/_spec/v0.1/terminology.md) ⭐ 1,941 | 🐛 174 | 🌐 HTML | 📅 2026-09-29
   * A great compilation of reads, context and learning materials: [chainguard-dev/ssc-reading-list: A reading list for software supply-chain security.](https://github.com/chainguard-dev/ssc-reading-list) ⚠️ Archived
   * [wg-security-tooling/guide.md at main · ossf/wg-security-tooling](https://github.com/ossf/wg-security-tooling/blob/main/guide.md) ⭐ 327 | 🐛 19 | 📅 2025-07-06 from [ossf/wg-security-tooling: OpenSSF Security Tooling Working Group](https://github.com/ossf/wg-security-tooling#active-projects) ⭐ 327 | 🐛 19 | 📅 2025-07-06
   * An RSS feed maintained by [@bureado](https://github.com/bureado) with a mix of open source security, DevSecOps, AppSec and supply chain security news: [corner-security](https://www.inoreader.com/stream/user/1005644984/tag/corner-security)
@@ -833,7 +833,7 @@ Also see:
 
 And a collection of reads and listens, ranging from insightful blog posts, explainers/all-rounders and some long-form analysis (we've tried to keep deep dive reads scoped to other sections)
 
-* [sigstore/community: General sigstore community repo](https://github.com/sigstore/community#slack) ⭐ 45 | 🐛 20 | 📅 2026-09-16
+* [sigstore/community: General sigstore community repo](https://github.com/sigstore/community#slack) ⭐ 45 | 🐛 19 | 📅 2026-09-16
 * Presentation: [Securing the Open Source Software Supply Chain](https://github.com/di/talks/raw/master/2022/pycon_us_2022/talk.pdf) ⭐ 23 | 🐛 8 | 🌐 Python | 📅 2023-10-06 at PyConUS2022 by Dustin Ingram
 * Watch: [AI-BOM Workshop at RSA Conference 2024](https://github.com/aibom-workshop/rsa-2024) ⭐ 15 | 🐛 3 | 📅 2024-05-20 - Comprehensive workshop on AI software supply chain security and AI Bill of Materials (AI-BOM) covering ecosystem best practices with industry leaders and CISA representatives, including recorded lightning talks
 * [Secure Software Development Fundamentals Courses - Open Source Security Foundation](https://openssf.org/training/courses/)
@@ -931,4 +931,4 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
