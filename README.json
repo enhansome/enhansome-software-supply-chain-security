@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "deepfence/ThreatMapper: 🔥 🔥 Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥",
-          "description": null,
+          "description": "deepfence/ThreatMapper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -47,7 +47,7 @@
         {
           "node_type": "item",
           "title": "mandiant/flare-floss: FLARE Obfuscated String Solver uses advanced static analysis to automatically extract and deobfuscate strings from binaries, useful for analyzing suspicious artifacts and identifying hidden behaviors",
-          "description": null,
+          "description": "mandiant/flare-floss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,11 +56,11 @@
             "id": 52993349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T02:59:02Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-02T15:43:26Z",
+            "open_issues": 122,
             "owner": "mandiant",
             "repo": "flare-floss",
-            "stars": 4169,
+            "stars": 4171,
             "topics": [
               "deobfuscation",
               "flare",
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "betterleaks/betterleaks: High-performance secrets detection tool with CEL-based contextual filtering, secret validation, and token efficiency filtering to reduce false positives",
-          "description": null,
+          "description": "betterleaks/betterleaks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -84,11 +84,11 @@
             "id": 1149107700,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-30T19:05:13Z",
-            "open_issues": 111,
+            "last_commit": "2026-10-02T18:58:47Z",
+            "open_issues": 112,
             "owner": "betterleaks",
             "repo": "betterleaks",
-            "stars": 2082,
+            "stars": 2085,
             "topics": [
               "cicd",
               "credentials",
@@ -117,7 +117,7 @@
         {
           "node_type": "item",
           "title": "AikidoSec/safe-chain: Package manager wrapper for npm, pip, poetry, yarn, and other package managers that blocks installation of newly published packages (less than 24 hours old) to prevent malware campaigns, with no build data sharing",
-          "description": null,
+          "description": "AikidoSec/safe-chain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
             "id": 1018072308,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T07:23:04Z",
+            "last_commit": "2026-10-03T04:23:55Z",
             "open_issues": 112,
             "owner": "AikidoSec",
             "repo": "safe-chain",
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database.",
-          "description": null,
+          "description": "guacsec/guac",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -189,10 +189,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T02:21:46Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "mongodb",
             "repo": "kingfisher",
-            "stars": 1250,
+            "stars": 1252,
             "topics": [
               "credentials",
               "devsecops",
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "package-url/purl-spec: A minimal specification for purl aka. a package \"mostly universal\" URL, join the discussion at https://gitter.im/package-url/Lobby",
-          "description": null,
+          "description": "package-url/purl-spec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,7 +220,7 @@
             "open_issues": 231,
             "owner": "package-url",
             "repo": "purl-spec",
-            "stars": 1115,
+            "stars": 1116,
             "topics": [
               "cyclonedx",
               "dependencies",
@@ -252,11 +252,11 @@
                 "id": 63809205,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T11:56:14Z",
-                "open_issues": 787,
+                "last_commit": "2026-10-02T15:24:41Z",
+                "open_issues": 791,
                 "owner": "google",
                 "repo": "oss-fuzz",
-                "stars": 12687,
+                "stars": 12688,
                 "topics": [
                   "fuzz-testing",
                   "fuzzing",
@@ -271,7 +271,7 @@
             {
               "node_type": "item",
               "title": "For Node.js: CodeIntelligenceTesting/jazzer.js: Coverage-guided, in-process fuzzing for the Node.js",
-              "description": null,
+              "description": "CodeIntelligenceTesting/jazzer.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -317,7 +317,7 @@
         {
           "node_type": "item",
           "title": "praetorian-inc/titus: High-performance secrets scanner with 487 detection rules for API keys, tokens, and credentials across hundreds of services, featuring live secret validation and available as CLI, Go library, and browser extensions",
-          "description": null,
+          "description": "praetorian-inc/titus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,7 +326,7 @@
             "id": 1141521735,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T12:21:07Z",
+            "last_commit": "2026-10-02T13:58:16Z",
             "open_issues": 5,
             "owner": "praetorian-inc",
             "repo": "titus",
@@ -353,7 +353,7 @@
         {
           "node_type": "item",
           "title": "chainguard-dev/malcontent: Static analysis tool for detecting supply chain attacks in container images and artifacts through behavioral pattern matching and anomaly detection",
-          "description": null,
+          "description": "chainguard-dev/malcontent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,7 +362,7 @@
             "id": 753881685,
             "language": "YARA",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:48:15Z",
+            "last_commit": "2026-10-03T00:19:54Z",
             "open_issues": 7,
             "owner": "chainguard-dev",
             "repo": "malcontent",
@@ -390,8 +390,8 @@
             "id": 951643407,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T16:19:07Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-02T15:30:47Z",
+            "open_issues": 39,
             "owner": "safedep",
             "repo": "pmg",
             "stars": 538,
@@ -411,7 +411,7 @@
         {
           "node_type": "item",
           "title": "elastic/supply-chain-monitor: Automated monitoring of top PyPI and npm packages for supply chain compromise, using LLM analysis to classify diffs as benign or malicious with Slack alerting",
-          "description": null,
+          "description": "elastic/supply-chain-monitor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "rohitcoder/hawk-eye: Command-line tool for discovering secrets and PII across infrastructure including S3, databases, cloud storage, Google Drive, Slack, and file systems using text analysis and OCR on various document formats",
-          "description": null,
+          "description": "rohitcoder/hawk-eye",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -463,7 +463,7 @@
         {
           "node_type": "item",
           "title": "AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.",
-          "description": null,
+          "description": "owasp-dep-scan/blint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -472,7 +472,7 @@
             "id": 591702216,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:53:39Z",
+            "last_commit": "2026-10-02T23:50:45Z",
             "open_issues": 36,
             "owner": "owasp-dep-scan",
             "repo": "blint",
@@ -493,7 +493,7 @@
         {
           "node_type": "item",
           "title": "cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages",
-          "description": null,
+          "description": "cve-search/git-vuln-finder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -550,7 +550,7 @@
         {
           "node_type": "item",
           "title": "arnica/depsguard: Rust-based tool that guards dependencies against supply chain attacks with zero dependencies, static binary distribution for easy CI/CD integration",
-          "description": null,
+          "description": "arnica/depsguard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -634,7 +634,7 @@
         {
           "node_type": "item",
           "title": "trailofbits/deptective: Automatically determines native dependencies required to run arbitrary programs by observing file access attempts and iteratively installing missing dependencies",
-          "description": null,
+          "description": "trailofbits/deptective",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -659,7 +659,7 @@
         {
           "node_type": "item",
           "title": "cugu/gocap: List your dependencies capabilities and monitor if updates require more capabilities.",
-          "description": null,
+          "description": "cugu/gocap",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -684,7 +684,7 @@
         {
           "node_type": "item",
           "title": "vulnerability-lookup/cpe-guesser: Command-line tool and web service for guessing CPE names from keywords for vulnerability research and tracking",
-          "description": null,
+          "description": "vulnerability-lookup/cpe-guesser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -710,7 +710,7 @@
         {
           "node_type": "item",
           "title": "IBM/CBOM: Cryptography Bill of Materials",
-          "description": null,
+          "description": "IBM/CBOM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -731,7 +731,7 @@
         {
           "node_type": "item",
           "title": "santhsecurity/keyhog: High-performance secrets scanner with 900+ detectors and GPU acceleration support, scanning source trees, git history, Docker images, S3 buckets, and runtime environments for leaked credentials and malicious indicators",
-          "description": null,
+          "description": "santhreal/keyhog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -773,7 +773,7 @@
         {
           "node_type": "item",
           "title": "apiiro/combobulator: Dependency Combobulator is an open-source, modular, and extensible framework to detect and prevent dependency confusion attacks",
-          "description": null,
+          "description": "apiiro/combobulator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -799,7 +799,7 @@
         {
           "node_type": "item",
           "title": "DataDog/ghbuster: Detects suspicious GitHub repositories and users using heuristics to identify potentially malicious or inauthentic accounts",
-          "description": null,
+          "description": "DataDog/ghbuster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -846,7 +846,7 @@
         {
           "node_type": "item",
           "title": "Otsmane-Ahmed/KEIP: eBPF-based real-time malware protection for Python package installations that monitors network behavior during setup.py execution and blocks suspicious outbound connections",
-          "description": null,
+          "description": "Otsmane-Ahmed/KEIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -876,7 +876,7 @@
         {
           "node_type": "item",
           "title": "2ndSetAI/good-egg: Trust scoring system for GitHub PR authors based on contribution history across the GitHub ecosystem, using data-driven analysis to detect AI-generated mass PRs and evaluate contributor credibility",
-          "description": null,
+          "description": "2ndSetAI/good-egg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -924,7 +924,7 @@
         {
           "node_type": "item",
           "title": "Checkmarx/chainalert-github-action: scans popular packages and alerts in cases there is suspicion of an account takeover",
-          "description": null,
+          "description": "Checkmarx/chainalert-github-action",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -970,7 +970,7 @@
         {
           "node_type": "item",
           "title": "abhisek/supply-chain-security-gateway: Reference architecture and proof of concept implementation for supply chain security gateway",
-          "description": null,
+          "description": "abhisek/supply-chain-security-gateway",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -991,7 +991,7 @@
         {
           "node_type": "item",
           "title": "RedHatProductSecurity/component-registry: Component Registry (Corgi) aggregates component data across Red Hat's supported products, managed services, and internal product pipeline services.",
-          "description": null,
+          "description": "RedHatProductSecurity/component-registry",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1012,7 +1012,7 @@
         {
           "node_type": "item",
           "title": "Bluewaves54/Bulwark: Lightweight security gateway between package managers and public registries (PyPI, npm, Maven, Open VSX) that inspects packages against configurable policy rules, single Go binary with YAML configuration",
-          "description": null,
+          "description": "Bluewaves54/Bulwark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1054,7 +1054,7 @@
         {
           "node_type": "item",
           "title": "irchaosclub/FANGS: eBPF-based npm package behavior monitoring system that runs releases in Docker sandbox, captures syscalls and network activity via kernel instrumentation, and flags behavioral deviations from baseline to detect supply chain anomalies",
-          "description": null,
+          "description": "irchaosclub/FANGS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1075,7 +1075,7 @@
         {
           "node_type": "item",
           "title": "momenbasel/AgentGuard: Intercepts package installations triggered by AI coding agents (Claude Code, Codex, Copilot) and validates against typosquatting, known malicious packages (OSV.dev feed), VirusTotal, and dangerous command patterns before execution. Supports npm, pip, Composer, Go, Cargo, and more",
-          "description": null,
+          "description": "momenbasel/AgentGuard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,7 +1130,7 @@
         {
           "node_type": "item",
           "title": "GarderaSecurity/gardwatch: Dependency intelligence tool that scores packages on trust, security, and quality, detecting typosquatting, namespace squatting, homoglyph attacks, and malware with OpenSSF Scorecard integration",
-          "description": null,
+          "description": "GarderaSecurity/gardwatch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1207,7 +1207,7 @@
         {
           "node_type": "item",
           "title": "AyoubTadlaoui/npmguard: Native pre-install risk gate for npm packages with an MCP tool for AI coding agents — scores packages on eight supply-chain signals (typosquats via Damerau-Levenshtein, OSV malware advisories, lifecycle scripts, sole-maintainer risk, package age, maintainer churn, repo health, deprecation) and blocks before lifecycle scripts can run. Single Rust binary, distributed outside npm, includes an MCP server so Claude Code / Cursor / Windsurf can gate calls",
-          "description": null,
+          "description": "AyoubTadlaoui/npmguard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1241,7 +1241,7 @@
         {
           "node_type": "item",
           "title": "Releaserun/releaserun-cli: CLI tool that scans project dependencies for end-of-life versions and known CVEs, checking package.json, go.mod, requirements.txt, Gemfile, Cargo.toml and Dockerfile base images against endoflife.date and OSV databases",
-          "description": null,
+          "description": "Releaserun/releaserun-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1273,7 +1273,7 @@
         {
           "node_type": "item",
           "title": "JorianWoltjer/git-authors: Enumerate authors in Git logs across repositories for OSINT, extracting names and emails from commit history",
-          "description": null,
+          "description": "JorianWoltjer/git-authors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1300,7 +1300,7 @@
         {
           "node_type": "item",
           "title": "sravan27/glasswall: GitHub-native patch-gap operations tool that ranks newly dangerous public fixes, plans the smallest safe dependency upgrades, and tracks fleet pressure over time",
-          "description": null,
+          "description": "sravan27/glasswall",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1331,7 +1331,7 @@
         {
           "node_type": "item",
           "title": "chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics & data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io",
-          "description": null,
+          "description": "chaoss/augur",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1352,7 +1352,7 @@
         {
           "node_type": "item",
           "title": "Software-Transparency-Foundation/stf-plagicheck: High-performance code plagiarism detection using winnowing fingerprints and snippet matching to scan source code against the osskb-core-open-dataset for potential code reuse",
-          "description": null,
+          "description": "Software-Transparency-Foundation/stf-plagicheck",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1387,11 +1387,11 @@
                 "id": 68022568,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T16:11:26Z",
-                "open_issues": 135,
+                "last_commit": "2026-10-02T15:12:06Z",
+                "open_issues": 134,
                 "owner": "repology",
                 "repo": "repology-updater",
-                "stars": 582,
+                "stars": 583,
                 "topics": [
                   "package",
                   "packages",
@@ -1432,7 +1432,7 @@
             {
               "node_type": "item",
               "title": "aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF",
-              "description": null,
+              "description": "aquasecurity/tracee",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1462,7 +1462,7 @@
             {
               "node_type": "item",
               "title": "genuinetools/bane: Custom & better AppArmor profile generator for Docker containers.",
-              "description": null,
+              "description": "genuinetools/bane",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1492,7 +1492,7 @@
             {
               "node_type": "item",
               "title": "containers/oci-seccomp-bpf-hook: OCI hook to trace syscalls and generate a seccomp profile",
-              "description": null,
+              "description": "containers/oci-seccomp-bpf-hook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1519,12 +1519,12 @@
             {
               "node_type": "item",
               "title": "apiaryio/curl-trace-parser: Parser for output from Curl --trace option",
-              "description": null,
+              "description": "apiaryio/curl-trace-parser",
               "children": [
                 {
                   "node_type": "item",
                   "title": "curl trace attestor · Issue #139 · testifysec/witness",
-                  "description": null,
+                  "description": "testifysec/witness",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1568,7 +1568,7 @@
             {
               "node_type": "item",
               "title": "SpectralOps/preflight: preflight helps you verify scripts and executables to mitigate chain of supply attacks such as the recent Codecov hack.",
-              "description": null,
+              "description": "SpectralOps/preflight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1594,7 +1594,7 @@
             {
               "node_type": "item",
               "title": "bottlerocket-os/hotdog: Hotdog is a set of OCI hooks used to inject the Log4j Hot Patch into containers.",
-              "description": null,
+              "description": "bottlerocket-os/hotdog",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1620,7 +1620,7 @@
                 {
                   "node_type": "item",
                   "title": "And the quite interesting Enable packaging of curl|bash and other wild stuff. by jordansissel · Pull Request #1957 · jordansissel/fpm",
-                  "description": null,
+                  "description": "jordansissel/fpm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1633,7 +1633,7 @@
                     "open_issues": 790,
                     "owner": "jordansissel",
                     "repo": "fpm",
-                    "stars": 11512,
+                    "stars": 11513,
                     "topics": [
                       "packaging"
                     ]
@@ -1652,7 +1652,7 @@
             {
               "node_type": "item",
               "title": "And particularly: scanoss.py/PACKAGE.md at main · scanoss/scanoss.py",
-              "description": null,
+              "description": "scanoss/scanoss.py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1677,7 +1677,7 @@
         {
           "node_type": "item",
           "title": "TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.",
-          "description": null,
+          "description": "jakob-pennington/awesome-devsecops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1706,7 +1706,7 @@
         {
           "node_type": "item",
           "title": "Several interesting concepts in: Shopify/seer-prototype: Security Expert Elicitation of Risks",
-          "description": null,
+          "description": "Shopify/seer-prototype",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1738,7 +1738,7 @@
                 {
                   "node_type": "item",
                   "title": "Simple flow: utils/ci/github/docker-build-sign-sbom at main · marco-lancini/utils",
-                  "description": null,
+                  "description": "marco-lancini/utils",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1769,8 +1769,8 @@
                 "id": 262126497,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:21:13Z",
-                "open_issues": 641,
+                "last_commit": "2026-10-02T20:50:41Z",
+                "open_issues": 646,
                 "owner": "anchore",
                 "repo": "syft",
                 "stars": 9632,
@@ -1793,12 +1793,12 @@
             {
               "node_type": "item",
               "title": "DefectDojo/django-DefectDojo: DefectDojo is a DevSecOps and vulnerability management tool.",
-              "description": null,
+              "description": "DefectDojo/django-DefectDojo",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Impressive list of integrations with samples: DefectDojo/sample-scan-files: Sample scan files for testing DefectDojo imports",
-                  "description": null,
+                  "description": "DefectDojo/sample-scan-files",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1828,11 +1828,11 @@
                 "id": 31028375,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T06:05:16Z",
-                "open_issues": 238,
+                "last_commit": "2026-10-03T04:25:51Z",
+                "open_issues": 233,
                 "owner": "DefectDojo",
                 "repo": "django-DefectDojo",
-                "stars": 4976,
+                "stars": 4975,
                 "topics": [
                   "analytics",
                   "appsec",
@@ -1856,7 +1856,7 @@
             {
               "node_type": "item",
               "title": "DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
-              "description": null,
+              "description": "DependencyTrack/dependency-track",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1869,7 +1869,7 @@
                 "open_issues": 1051,
                 "owner": "DependencyTrack",
                 "repo": "dependency-track",
-                "stars": 4259,
+                "stars": 4257,
                 "topics": [
                   "appsec",
                   "bill-of-materials",
@@ -1898,7 +1898,7 @@
             {
               "node_type": "item",
               "title": "e-m-b-a/emba: Security analyzer for firmware of embedded devices, supporting static and dynamic analysis via emulation, SBOM generation, and vulnerability reporting",
-              "description": null,
+              "description": "e-m-b-a/emba",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1907,11 +1907,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T07:15:46Z",
+                "last_commit": "2026-10-02T09:55:59Z",
                 "open_issues": 18,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3686,
+                "stars": 3689,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -1940,7 +1940,7 @@
             {
               "node_type": "item",
               "title": "nexB/scancode-toolkit: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.",
-              "description": null,
+              "description": "aboutcode-org/scancode-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1950,10 +1950,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T10:34:48Z",
-                "open_issues": 1695,
+                "open_issues": 1696,
                 "owner": "aboutcode-org",
                 "repo": "scancode-toolkit",
-                "stars": 2636,
+                "stars": 2634,
                 "topics": [
                   "copyright",
                   "copyright-scan",
@@ -1982,7 +1982,7 @@
             {
               "node_type": "item",
               "title": "oss-review-toolkit/ort: A suite of tools to assist with reviewing Open Source Software dependencies.",
-              "description": null,
+              "description": "oss-review-toolkit/ort",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1991,8 +1991,8 @@
                 "id": 107540288,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:38:22Z",
-                "open_issues": 337,
+                "last_commit": "2026-10-02T18:56:11Z",
+                "open_issues": 338,
                 "owner": "oss-review-toolkit",
                 "repo": "ort",
                 "stars": 2097,
@@ -2022,7 +2022,7 @@
             {
               "node_type": "item",
               "title": "microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts",
-              "description": null,
+              "description": "microsoft/sbom-tool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2035,7 +2035,7 @@
                 "open_issues": 102,
                 "owner": "microsoft",
                 "repo": "sbom-tool",
-                "stars": 2077,
+                "stars": 2076,
                 "topics": [
                   "sbom",
                   "sbom-generator"
@@ -2046,7 +2046,7 @@
             {
               "node_type": "item",
               "title": "Grafeas: A Component Metadata API",
-              "description": null,
+              "description": "grafeas/grafeas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2067,7 +2067,7 @@
             {
               "node_type": "item",
               "title": "AppThreat/dep-scan: Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required!",
-              "description": null,
+              "description": "owasp-dep-scan/dep-scan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2105,7 +2105,7 @@
             {
               "node_type": "item",
               "title": "AppThreat/cdxgen: Generates CycloneDX Software Bill of Materials (SBOM) for many languages and package managers including Java, JavaScript, Python, Go, Rust, Ruby, PHP, and more",
-              "description": null,
+              "description": "cdxgen/cdxgen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2114,8 +2114,8 @@
                 "id": 230924711,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:55:46Z",
-                "open_issues": 409,
+                "last_commit": "2026-10-02T20:03:54Z",
+                "open_issues": 410,
                 "owner": "cdxgen",
                 "repo": "cdxgen",
                 "stars": 1082,
@@ -2143,7 +2143,7 @@
             {
               "node_type": "item",
               "title": "tern-tools/tern: Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.",
-              "description": null,
+              "description": "tern-tools/tern",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2156,7 +2156,7 @@
                 "open_issues": 64,
                 "owner": "tern-tools",
                 "repo": "tern",
-                "stars": 1021,
+                "stars": 1022,
                 "topics": [
                   "compliance",
                   "containers",
@@ -2179,7 +2179,7 @@
             {
               "node_type": "item",
               "title": "ANNOUNCE: Scan is now in maintenance mode · Issue #352 · ShiftLeftSecurity/sast-scan",
-              "description": null,
+              "description": "ShiftLeftSecurity/sast-scan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2208,7 +2208,7 @@
             {
               "node_type": "item",
               "title": "microsoft/component-detection: Scans your project to determine what components you use",
-              "description": null,
+              "description": "microsoft/component-detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2221,7 +2221,7 @@
                 "open_issues": 191,
                 "owner": "microsoft",
                 "repo": "component-detection",
-                "stars": 556,
+                "stars": 555,
                 "topics": [
                   "dependencies",
                   "package-management",
@@ -2236,7 +2236,7 @@
             {
               "node_type": "item",
               "title": "kubernetes-sigs/bom: A utility to generate SBOM for Kubernetes projects, supporting SPDX format with file checksums, package information, and license data",
-              "description": null,
+              "description": "kubernetes-sigs/bom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2264,7 +2264,7 @@
             {
               "node_type": "item",
               "title": "opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.",
-              "description": null,
+              "description": "opensbom-generator/spdx-sbom-generator",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2285,7 +2285,7 @@
             {
               "node_type": "item",
               "title": "trailofbits/it-depends: A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.",
-              "description": null,
+              "description": "trailofbits/it-depends",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2295,7 +2295,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-02T06:07:41Z",
-                "open_issues": 8,
+                "open_issues": 12,
                 "owner": "trailofbits",
                 "repo": "it-depends",
                 "stars": 416,
@@ -2315,7 +2315,7 @@
             {
               "node_type": "item",
               "title": "mercedes-benz/sechub: SecHub - one central and easy way to use different security tools with one API/Client",
-              "description": null,
+              "description": "mercedes-benz/sechub",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2370,7 +2370,7 @@
                 "open_issues": 15,
                 "owner": "Trusera",
                 "repo": "ai-bom",
-                "stars": 340,
+                "stars": 339,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -2388,7 +2388,7 @@
             {
               "node_type": "item",
               "title": "interlynk-io/sbomqs: SBOM quality score - Quality metrics for your sboms",
-              "description": null,
+              "description": "interlynk-io/sbomqs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2432,8 +2432,8 @@
                 "id": 129769092,
                 "language": "Java",
                 "license": "EPL-2.0",
-                "last_commit": "2026-10-02T02:36:25Z",
-                "open_issues": 496,
+                "last_commit": "2026-10-03T04:45:49Z",
+                "open_issues": 487,
                 "owner": "eclipse-sw360",
                 "repo": "sw360",
                 "stars": 257,
@@ -2444,7 +2444,7 @@
             {
               "node_type": "item",
               "title": "eBay/sbom-scorecard: Generate a score for your sbom to understand if it will actually be useful.",
-              "description": null,
+              "description": "eBay/sbom-scorecard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2465,7 +2465,7 @@
             {
               "node_type": "item",
               "title": "ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft",
-              "description": null,
+              "description": "ckotzbauer/sbom-operator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2474,8 +2474,8 @@
                 "id": 445796135,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-01T06:18:25Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-03T05:04:34Z",
+                "open_issues": 11,
                 "owner": "ckotzbauer",
                 "repo": "sbom-operator",
                 "stars": 238,
@@ -2492,7 +2492,7 @@
             {
               "node_type": "item",
               "title": "advanced-security/gh-sbom: Generate SBOMs with gh CLI",
-              "description": null,
+              "description": "advanced-security/gh-sbom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2542,6 +2542,33 @@
             },
             {
               "node_type": "item",
+              "title": "guacsec/trustify",
+              "description": "provides a searchable abstraction over CycloneDX/SPDX SBOMs, cross-referencing against security advisories to identify vulnerabilities. See docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Vulnerability correlation engine that works at scale turning your data (SBOMs, CVE, advisories) into evidence from which to assert vulnerability correlations. Links vulnerability ↔ component ↔ product ↔ VEX across CSAF/VEX, OSV and CVE, and answers affectedness questions via REST API.",
+                "homepage": "https://matrix.to/#/#trustification:matrix.org",
+                "id": 767030962,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-03T03:36:35Z",
+                "open_issues": 68,
+                "owner": "guacsec",
+                "repo": "trustify",
+                "stars": 80,
+                "topics": [
+                  "advisories",
+                  "csaf",
+                  "cve",
+                  "sbom",
+                  "vulnerabilities"
+                ]
+              },
+              "first_seen": "2026-08-28T14:35:39.851Z"
+            },
+            {
+              "node_type": "item",
               "title": "Lab700xOrg/aisbom: Static malware and license scanner for ML model files",
               "description": ", disassembling Pickle bytecode and parsing SafeTensors/GGUF binary headers to detect RCE-capable payloads and license risks before model load; generates CycloneDX/SPDX SBOMs and supports remote HTTP-range scanning of Hugging Face models with no weights downloaded.",
               "children": [],
@@ -2584,35 +2611,8 @@
             },
             {
               "node_type": "item",
-              "title": "guacsec/trustify",
-              "description": "provides a searchable abstraction over CycloneDX/SPDX SBOMs, cross-referencing against security advisories to identify vulnerabilities. See docs",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Vulnerability correlation engine that works at scale turning your data (SBOMs, CVE, advisories) into evidence from which to assert vulnerability correlations. Links vulnerability ↔ component ↔ product ↔ VEX across CSAF/VEX, OSV and CVE, and answers affectedness questions via REST API.",
-                "homepage": "https://matrix.to/#/#trustification:matrix.org",
-                "id": 767030962,
-                "language": "Rust",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-02T03:40:01Z",
-                "open_issues": 69,
-                "owner": "guacsec",
-                "repo": "trustify",
-                "stars": 78,
-                "topics": [
-                  "advisories",
-                  "csaf",
-                  "cve",
-                  "sbom",
-                  "vulnerabilities"
-                ]
-              },
-              "first_seen": "2026-08-28T14:35:39.851Z"
-            },
-            {
-              "node_type": "item",
               "title": "patriksvensson/covenant: A tool to generate SBOM (Software Bill of Material) from source code artifacts.",
-              "description": null,
+              "description": "patriksvensson/covenant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2680,7 +2680,7 @@
             {
               "node_type": "item",
               "title": "siemens/debsbom: Generates SBOMs for Debian-based distributions in SPDX and CycloneDX formats, with focus on source packages (relevant for CVE matching) and complete dependency graphs for identifying crucial components",
-              "description": null,
+              "description": "siemens/debsbom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2701,7 +2701,7 @@
             {
               "node_type": "item",
               "title": "safedep/xbom: BOM generation tool that detects AI SDKs, ML models, SaaS APIs, and cryptographic algorithms via static code analysis with community-maintained YAML signatures, supporting Python, Java, Go, and JavaScript with CycloneDX output",
-              "description": null,
+              "description": "safedep/xbom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2728,7 +2728,7 @@
             {
               "node_type": "item",
               "title": "BBVA/susto: Systematic Universal Security Testing Orchestration",
-              "description": null,
+              "description": "BBVA/susto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2749,7 +2749,7 @@
             {
               "node_type": "item",
               "title": "sony/esstra: GCC plugin and Python tool that embeds source file information into binaries during compilation to enhance software transparency, traceability, and SBOM generation for open-source license compliance and vulnerability management",
-              "description": null,
+              "description": "sony/esstra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2759,7 +2759,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T06:02:39Z",
-                "open_issues": 8,
+                "open_issues": 10,
                 "owner": "sony",
                 "repo": "esstra",
                 "stars": 35,
@@ -2770,7 +2770,7 @@
             {
               "node_type": "item",
               "title": "sbs2001/fatbom: fatbom (Fat Bill Of Materials) is a tool which combines the SBOM generated by various tools into one fat SBOM. Thus leveraging each tool's strength.",
-              "description": null,
+              "description": "VexStore/fatbom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2796,7 +2796,7 @@
             {
               "node_type": "item",
               "title": "CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.",
-              "description": null,
+              "description": "CycloneDX/cyclonedx-webpack-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2834,7 +2834,7 @@
             {
               "node_type": "item",
               "title": "interlynk-io/sbommv: Tool for transferring SBOMs between systems with modular adapter-based architecture, supporting GitHub, S3, local folders as sources and Dependency-Track, Interlynk Platform, S3, local folders as destinations",
-              "description": null,
+              "description": "interlynk-io/sbommv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2867,7 +2867,7 @@
             {
               "node_type": "item",
               "title": "hughsie/python-uswid: A tiny tool for embedding CoSWID tags in EFI binaries",
-              "description": null,
+              "description": "hughsie/python-uswid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2888,7 +2888,7 @@
             {
               "node_type": "item",
               "title": "tap8stry/orion: Go beyond package manager discovery for SBOM",
-              "description": null,
+              "description": "tap8stry/orion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2930,7 +2930,7 @@
             {
               "node_type": "item",
               "title": "swingletree-oss/swingletree: Integrate and observe the results of your CI/CD pipeline tools",
-              "description": null,
+              "description": "swingletree-oss/swingletree",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2959,7 +2959,7 @@
             {
               "node_type": "item",
               "title": "javixeneize/yasca: Yet Another SCA tool",
-              "description": null,
+              "description": "javixeneize/zasca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3013,12 +3013,12 @@
             {
               "node_type": "item",
               "title": "jhutchings1/spdx-to-dependency-graph-action: A GitHub Action that takes SPDX SBOMs and uploads them to GitHub's dependency submission API to power Dependabot alerts",
-              "description": null,
+              "description": "jhutchings1/spdx-to-dependency-graph-action",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Also see: evryfs/sbom-dependency-submission-action: Submit SBOMs to GitHub's dependency submission API",
-                  "description": null,
+                  "description": "evryfs/sbom-dependency-submission-action",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3130,7 +3130,7 @@
             {
               "node_type": "item",
               "title": "boschglobal/SEPIA (SBOM Exchange Procedures, Interfaces and Architecture): Schema mapping and harmonization between SPDX and CycloneDX with tooling for SBOM validation, metadata editing, field insertion, and multi-SBOM merging",
-              "description": null,
+              "description": "boschglobal/SBOM-sg-SEPIA-bosch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3139,7 +3139,7 @@
                 "id": 884659980,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T14:41:13Z",
+                "last_commit": "2026-10-03T04:58:29Z",
                 "open_issues": 0,
                 "owner": "boschglobal",
                 "repo": "SBOM-sg-SEPIA-bosch",
@@ -3151,7 +3151,7 @@
             {
               "node_type": "item",
               "title": "AppThreat/rosa: An experiment that looks very promising so far.",
-              "description": null,
+              "description": "AppThreat/rosa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3198,7 +3198,7 @@
                 {
                   "node_type": "item",
                   "title": "Also: git-bom/bomsh: bomsh is collection of tools to explore the GitBOM idea",
-                  "description": null,
+                  "description": "omnibor/bomsh",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3242,7 +3242,7 @@
                 {
                   "node_type": "item",
                   "title": "yonhan3/gitbom-repo: A repository of gitBOM docs for Linux binaries",
-                  "description": null,
+                  "description": "yonhan3/gitbom-repo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3270,7 +3270,7 @@
                 {
                   "node_type": "item",
                   "title": "renovatebot/renovate: Universal dependency update tool that fits into your workflows.",
-                  "description": null,
+                  "description": "renovatebot/renovate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3279,11 +3279,11 @@
                     "id": 76734068,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T08:48:50Z",
-                    "open_issues": 1455,
+                    "last_commit": "2026-10-02T23:31:26Z",
+                    "open_issues": 1494,
                     "owner": "renovatebot",
                     "repo": "renovate",
-                    "stars": 22647,
+                    "stars": 22657,
                     "topics": [
                       "azure-devops",
                       "bitbucket",
@@ -3308,7 +3308,7 @@
                 {
                   "node_type": "item",
                   "title": "tiiuae/sbomnix: Generates SBOMs for Nix derivations at the .drv level, attempting to reconstruct metadata and supporting both build-time and runtime pruning",
-                  "description": null,
+                  "description": "tiiuae/sbomnix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3347,7 +3347,7 @@
                 {
                   "node_type": "item",
                   "title": "nikstur/bombon: Generates SBOMs for Nix packages at the .nix level with access to meta information, supporting flat SBOM output",
-                  "description": null,
+                  "description": "nikstur/bombon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3382,7 +3382,7 @@
                 {
                   "node_type": "item",
                   "title": "tweag/genealogos: Nix SBOM generator using nixtract for dependency introspection with hierarchical representation of build and runtime dependencies",
-                  "description": null,
+                  "description": "tweag/genealogos",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3415,7 +3415,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/nancy: Checks for vulnerabilities in your Golang dependencies using OSS Index",
-                  "description": null,
+                  "description": "sonatype-nexus-community/nancy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3440,7 +3440,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/DevAudit: Open-source, cross-platform, multi-purpose security auditing tool targeting developers and DevSecOps teams",
-                  "description": null,
+                  "description": "sonatype-nexus-community/DevAudit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3461,7 +3461,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/auditjs: Audit JavaScript projects using Sonatype OSS Index or Nexus Lifecycle",
-                  "description": null,
+                  "description": "sonatype-nexus-community/auditjs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3487,7 +3487,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/jake: Check your Python environments and dependencies for known vulnerabilities using OSS Index",
-                  "description": null,
+                  "description": "sonatype-nexus-community/jake",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3515,7 +3515,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/ahab: Scan for vulnerabilities in your apt or yum managed dependencies using OSS Index",
-                  "description": null,
+                  "description": "sonatype-nexus-community/ahab",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3538,7 +3538,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/oysteR: Secure your R dependencies against known vulnerabilities using OSS Index",
-                  "description": null,
+                  "description": "sonatype-nexus-community/oysteR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3561,7 +3561,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/cargo-pants: Check for vulnerabilities in your Rust Cargo dependencies using OSS Index",
-                  "description": null,
+                  "description": "sonatype-nexus-community/cargo-pants",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3588,7 +3588,7 @@
                 {
                   "node_type": "item",
                   "title": "illikainen/ossaudit: Audit Python packages for known vulnerabilities using OSS Index",
-                  "description": null,
+                  "description": "illikainen/ossaudit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3609,7 +3609,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/cheque: Checks for vulnerabilities in your C/C++ dependencies using OSS Index",
-                  "description": null,
+                  "description": "sonatype-nexus-community/cheque",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3630,7 +3630,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/chelsea: Interact with Sonatype OSS Index to check for vulnerabilities in your Ruby Gems",
-                  "description": null,
+                  "description": "sonatype-nexus-community/chelsea",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3653,7 +3653,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/bach: Interact with Sonatype OSS Index to check for vulnerabilities in your PHP (Composer) dependencies",
-                  "description": null,
+                  "description": "sonatype-nexus-community/bach",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3702,7 +3702,7 @@
                 {
                   "node_type": "item",
                   "title": "sonatype-nexus-community/scan-gradle-plugin: A Gradle plugin for scanning dependencies with OSS Index and Nexus Lifecycle",
-                  "description": null,
+                  "description": "sonatype-nexus-community/scan-gradle-plugin",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3763,7 +3763,7 @@
             {
               "node_type": "item",
               "title": "envoy/DEPENDENCY_POLICY.md at main · envoyproxy/envoy",
-              "description": null,
+              "description": "envoyproxy/envoy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3772,11 +3772,11 @@
                 "id": 65214191,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:48:54Z",
-                "open_issues": 1850,
+                "last_commit": "2026-10-03T04:41:18Z",
+                "open_issues": 1856,
                 "owner": "envoyproxy",
                 "repo": "envoy",
-                "stars": 29026,
+                "stars": 29034,
                 "topics": [
                   "cars",
                   "cats",
@@ -3802,8 +3802,8 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:55:25Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-03T04:44:11Z",
+                "open_issues": 4,
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 140,
@@ -3814,7 +3814,7 @@
             {
               "node_type": "item",
               "title": "nelsonduarte/capa-language: A capability-typed programming language whose compiler emits CycloneDX 1.5, SPDX 2.3, CycloneDX VEX, and SLSA L1 provenance directly from function signatures, with per-function granularity for declared capabilities (Fs/Net/Env/...) and user-defined capabilities. Includes a worked example of sandboxing LLM agent tool-use via the type system",
-              "description": null,
+              "description": "nelsonduarte/capa-language",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3860,7 +3860,7 @@
             {
               "node_type": "item",
               "title": "aquasecurity/trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",
-              "description": null,
+              "description": "aquasecurity/trivy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3870,10 +3870,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T08:30:44Z",
-                "open_issues": 253,
+                "open_issues": 254,
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 38183,
+                "stars": 38203,
                 "topics": [
                   "containers",
                   "devsecops",
@@ -3897,7 +3897,7 @@
             {
               "node_type": "item",
               "title": "anchore/grype: A vulnerability scanner for container images and filesystems",
-              "description": null,
+              "description": "anchore/grype",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3906,11 +3906,11 @@
                 "id": 267054247,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:47:52Z",
-                "open_issues": 413,
+                "last_commit": "2026-10-02T16:52:07Z",
+                "open_issues": 417,
                 "owner": "anchore",
                 "repo": "grype",
-                "stars": 12967,
+                "stars": 12965,
                 "topics": [
                   "container-image",
                   "containers",
@@ -3934,7 +3934,7 @@
             {
               "node_type": "item",
               "title": "future-architect/vuls: Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",
-              "description": null,
+              "description": "future-architect/vuls",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3976,7 +3976,7 @@
             {
               "node_type": "item",
               "title": "trickest/cve: Gather and update all available and newest CVEs with their PoC.",
-              "description": null,
+              "description": "trickest/cve",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3985,11 +3985,11 @@
                 "id": 454015416,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-01T12:54:38Z",
+                "last_commit": "2026-10-02T12:33:08Z",
                 "open_issues": 21,
                 "owner": "trickest",
                 "repo": "cve",
-                "stars": 8115,
+                "stars": 8116,
                 "topics": [
                   "cve",
                   "cve-poc",
@@ -4028,7 +4028,7 @@
                 "open_issues": 15,
                 "owner": "infobyte",
                 "repo": "faraday",
-                "stars": 6763,
+                "stars": 6762,
                 "topics": [
                   "appsec",
                   "autonomous-agents",
@@ -4062,12 +4062,12 @@
                 {
                   "node_type": "item",
                   "title": "ossf/scorecard-action: Official GitHub Action for OSSF Scorecards.",
-                  "description": null,
+                  "description": "ossf/scorecard-action",
                   "children": [
                     {
                       "node_type": "item",
                       "title": "Note: How OpenSSF Scorecard’s GitHub Action v2 action uses GitHub OIDC with Sigstore",
-                      "description": null,
+                      "description": "sigstore/community",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4111,7 +4111,7 @@
                 {
                   "node_type": "item",
                   "title": "Also OpenSSF Security Insights Spec",
-                  "description": null,
+                  "description": "ossf/security-insights",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4158,11 +4158,11 @@
                 "id": 302670797,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:29:07Z",
-                "open_issues": 448,
+                "last_commit": "2026-10-02T16:06:43Z",
+                "open_issues": 447,
                 "owner": "ossf",
                 "repo": "scorecard",
-                "stars": 5732,
+                "stars": 5731,
                 "topics": [
                   "openssf-scorecard",
                   "scorecard"
@@ -4173,7 +4173,7 @@
             {
               "node_type": "item",
               "title": "cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities",
-              "description": null,
+              "description": "cve-search/cve-search",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4205,7 +4205,7 @@
             {
               "node_type": "item",
               "title": "toolswatch/vFeed: The Correlated CVE Vulnerability And Threat Intelligence Database API",
-              "description": null,
+              "description": "toolswatch/vFeed",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4247,7 +4247,7 @@
             {
               "node_type": "item",
               "title": "TURROKS/CVE_Prioritizer: Prioritize vulnerability patching by combining CVSS, EPSS, CISA KEV, and VulnCheck data",
-              "description": null,
+              "description": "TURROKS/CVE_Prioritizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4277,7 +4277,7 @@
             {
               "node_type": "item",
               "title": "nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode",
-              "description": null,
+              "description": "aboutcode-org/vulnerablecode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4286,8 +4286,8 @@
                 "id": 91780998,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T17:17:45Z",
-                "open_issues": 840,
+                "last_commit": "2026-10-02T13:23:26Z",
+                "open_issues": 837,
                 "owner": "aboutcode-org",
                 "repo": "vulnerablecode",
                 "stars": 707,
@@ -4317,7 +4317,7 @@
             {
               "node_type": "item",
               "title": "devops-kung-fu/bomber: Scans SBoMs for security vulnerabilities",
-              "description": null,
+              "description": "devops-kung-fu/bomber",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4330,7 +4330,7 @@
                 "open_issues": 30,
                 "owner": "devops-kung-fu",
                 "repo": "bomber",
-                "stars": 627,
+                "stars": 625,
                 "topics": [
                   "cyclonedx",
                   "devsecops",
@@ -4354,7 +4354,7 @@
             {
               "node_type": "item",
               "title": "devops-kung-fu/bomber: Scans Software Bill of Materials (SBOMs) for security vulnerabilities",
-              "description": null,
+              "description": "devops-kung-fu/bomber",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4367,7 +4367,7 @@
                 "open_issues": 30,
                 "owner": "devops-kung-fu",
                 "repo": "bomber",
-                "stars": 627,
+                "stars": 625,
                 "topics": [
                   "cyclonedx",
                   "devsecops",
@@ -4400,11 +4400,11 @@
                 "id": 572446652,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T05:31:49Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-02T20:54:05Z",
+                "open_issues": 70,
                 "owner": "vulnerability-lookup",
                 "repo": "vulnerability-lookup",
-                "stars": 578,
+                "stars": 580,
                 "topics": [
                   "cvd",
                   "cvd-policy",
@@ -4418,7 +4418,7 @@
             {
               "node_type": "item",
               "title": "noqcks/xeol: An end-of-life (EOL) package scanner for container images, systems, and SBOMs",
-              "description": null,
+              "description": "xeol-io/xeol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4473,7 +4473,7 @@
             {
               "node_type": "item",
               "title": "mitre/saf: The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline security automation for systems and DevOps pipelines",
-              "description": null,
+              "description": "mitre/saf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4482,11 +4482,11 @@
                 "id": 433123706,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T02:54:16Z",
+                "last_commit": "2026-10-03T03:22:00Z",
                 "open_issues": 148,
                 "owner": "mitre",
                 "repo": "saf",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "compliance",
                   "devsecops",
@@ -4504,7 +4504,7 @@
             {
               "node_type": "item",
               "title": "ossf-cve-benchmark/ossf-cve-benchmark: The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) tools and generate reports to evaluate those tools.",
-              "description": null,
+              "description": "ossf-cve-benchmark/ossf-cve-benchmark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4531,7 +4531,7 @@
             {
               "node_type": "item",
               "title": "AppThreat/vulnerability-db: Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm.",
-              "description": null,
+              "description": "AppThreat/vulnerability-db",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4540,7 +4540,7 @@
                 "id": 235073284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T16:46:16Z",
+                "last_commit": "2026-10-02T11:48:32Z",
                 "open_issues": 35,
                 "owner": "AppThreat",
                 "repo": "vulnerability-db",
@@ -4563,7 +4563,7 @@
             {
               "node_type": "item",
               "title": "Exein-io/kepler: NIST-based CVE lookup store and API powered by Rust",
-              "description": null,
+              "description": "exein-io/kepler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4590,7 +4590,7 @@
             {
               "node_type": "item",
               "title": "Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect actual exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)",
-              "description": null,
+              "description": "Rezilion/mi-x",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4616,7 +4616,7 @@
             {
               "node_type": "item",
               "title": "victims/victims-cve-db: CVE database store",
-              "description": null,
+              "description": "victims/victims-cve-db",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4637,7 +4637,7 @@
             {
               "node_type": "item",
               "title": "nyph-infosec/daggerboard",
-              "description": null,
+              "description": "nyph-infosec/daggerboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4658,7 +4658,7 @@
             {
               "node_type": "item",
               "title": "mchmarny/vimp: Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures.",
-              "description": null,
+              "description": "mchmarny/vimp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4689,7 +4689,7 @@
             {
               "node_type": "item",
               "title": "An AOSP vuln-to-commit exercise: quarkslab/aosp_dataset: Large Commit Precise Vulnerability Dataset based on AOSP CVE",
-              "description": null,
+              "description": "quarkslab/aosp_dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4710,7 +4710,7 @@
             {
               "node_type": "item",
               "title": "davideshay/vulnscan: Vulnerability Scanner Suite based on grype and syft from anchore",
-              "description": null,
+              "description": "davideshay/vulnscan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4731,7 +4731,7 @@
             {
               "node_type": "item",
               "title": "secvisogram/secvisogram: Secvisogram is a web tool for creating and editing security advisories in the CSAF 2.0 format",
-              "description": null,
+              "description": "secvisogram/secvisogram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4799,7 +4799,7 @@
                 {
                   "node_type": "item",
                   "title": "Tools: google/osv-scanner: Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
-                  "description": null,
+                  "description": "google/osv-scanner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4808,7 +4808,7 @@
                     "id": 565629124,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T05:16:33Z",
+                    "last_commit": "2026-10-02T20:58:00Z",
                     "open_issues": 103,
                     "owner": "google",
                     "repo": "osv-scanner",
@@ -4825,7 +4825,7 @@
                 {
                   "node_type": "item",
                   "title": "Related: spdx/spdx-to-osv: Produce an Open Source Vulnerability JSON file based on information in an SPDX document",
-                  "description": null,
+                  "description": "spdx/spdx-to-osv",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4859,7 +4859,7 @@
         {
           "node_type": "item",
           "title": "armosec/kubescape: Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",
-          "description": null,
+          "description": "kubescape/kubescape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4868,11 +4868,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:52:54Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-02T16:26:35Z",
+            "open_issues": 49,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11761,
+            "stars": 11763,
             "topics": [
               "best-practice",
               "devops",
@@ -4918,7 +4918,7 @@
         {
           "node_type": "item",
           "title": "cloudquery/plugins/source/k8s/policies at main · cloudquery/cloudquery",
-          "description": null,
+          "description": "cloudquery/cloudquery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4927,11 +4927,11 @@
             "id": 313853293,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T08:12:57Z",
-            "open_issues": 171,
+            "last_commit": "2026-10-02T14:14:29Z",
+            "open_issues": 180,
             "owner": "cloudquery",
             "repo": "cloudquery",
-            "stars": 6532,
+            "stars": 6534,
             "topics": [
               "airbyte",
               "attack-surface-management",
@@ -4960,7 +4960,7 @@
         {
           "node_type": "item",
           "title": "goodwithtech/dockle: Container image linter for security, detects vulnerabilities, helps build best-practice Dockerfiles and supports CIS Benchmarks",
-          "description": null,
+          "description": "goodwithtech/dockle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5019,7 +5019,7 @@
         {
           "node_type": "item",
           "title": "aquasecurity/trivy-operator: Kubernetes-native security toolkit that continuously scans the cluster for vulnerabilities, misconfiguration, secrets, and exposed sensitive information",
-          "description": null,
+          "description": "aquasecurity/trivy-operator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5051,7 +5051,7 @@
         {
           "node_type": "item",
           "title": "aquasecurity/starboard: Kubernetes-native security toolkit",
-          "description": null,
+          "description": "aquasecurity/starboard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5078,7 +5078,7 @@
         {
           "node_type": "item",
           "title": "stackrox/stackrox: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.",
-          "description": null,
+          "description": "stackrox/stackrox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5087,8 +5087,8 @@
             "id": 434017296,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:48:33Z",
-            "open_issues": 686,
+            "last_commit": "2026-10-03T04:48:08Z",
+            "open_issues": 690,
             "owner": "stackrox",
             "repo": "stackrox",
             "stars": 1314,
@@ -5105,7 +5105,7 @@
         {
           "node_type": "item",
           "title": "grafeas/kritis: Solution for securing your software supply chain for Kubernetes apps, enforcing deploy-time security policies",
-          "description": null,
+          "description": "grafeas/kritis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5126,7 +5126,7 @@
         {
           "node_type": "item",
           "title": "ironsh/iron-proxy: MITM egress proxy with built-in DNS server enforcing default-deny network access, designed to prevent secrets exfiltration, command injection, and reverse shell attacks in CI/CD and sandboxed environments",
-          "description": null,
+          "description": "paradigmxyz/iron-proxy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5139,7 +5139,7 @@
             "open_issues": 30,
             "owner": "paradigmxyz",
             "repo": "iron-proxy",
-            "stars": 701,
+            "stars": 702,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:39.851Z"
@@ -5189,7 +5189,7 @@
         {
           "node_type": "item",
           "title": "HarborGuard/HarborGuard: Comprehensive container security scanning platform with intuitive web UI for managing and visualizing security assessments of Docker images",
-          "description": null,
+          "description": "HarborGuard/HarborGuard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5216,12 +5216,12 @@
         {
           "node_type": "item",
           "title": "boostsecurityio/poutine: CI/CD security scanner that detects misconfigurations and vulnerabilities in GitHub Actions and GitLab CI/CD workflows, with organization-wide analysis capabilities",
-          "description": null,
+          "description": "boostsecurityio/poutine",
           "children": [
             {
               "node_type": "item",
               "title": "boostsecurityio/poutine-action: GitHub Action for integrating poutine security scanning into GitHub Actions workflows",
-              "description": null,
+              "description": "boostsecurityio/poutine-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5250,8 +5250,8 @@
             "id": 784369027,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-09T18:40:29Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-02T18:38:20Z",
+            "open_issues": 18,
             "owner": "boostsecurityio",
             "repo": "poutine",
             "stars": 523,
@@ -5275,7 +5275,7 @@
         {
           "node_type": "item",
           "title": "advaitpatel/DockSec: AI-powered Docker security scanner that combines Trivy, Hadolint, and Docker Scout with AI analysis to explain vulnerabilities in plain English and suggest specific Dockerfile fixes",
-          "description": null,
+          "description": "OWASP/DockSec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5306,7 +5306,7 @@
         {
           "node_type": "item",
           "title": "quarkslab/kdigger: Kubernetes focused container assessment and context discovery tool for penetration testing",
-          "description": null,
+          "description": "quarkslab/kdigger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5333,7 +5333,7 @@
         {
           "node_type": "item",
           "title": "portieris/POLICIES.md at main · IBM/portieris",
-          "description": null,
+          "description": "IBM/portieris",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5354,7 +5354,7 @@
         {
           "node_type": "item",
           "title": "cicd-sensor/cicd-sensor: eBPF-powered runtime security sensor for GitHub Actions and GitLab CI/CD pipelines, providing EDR-like visibility and detection of malicious process execution and supply chain attacks during builds",
-          "description": "(docs)",
+          "description": "cicd-sensor/cicd-sensor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5380,7 +5380,7 @@
         {
           "node_type": "item",
           "title": "avilum/secimport: eBPF-based module-level sandboxing for Python applications, enforcing syscall restrictions per Python module to mitigate risks from vulnerable or malicious dependencies",
-          "description": null,
+          "description": "avilum/secimport",
           "children": [
             {
               "node_type": "item",
@@ -5415,12 +5415,12 @@
             {
               "node_type": "item",
               "title": "Or trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities",
-              "description": null,
+              "description": "pypa/pip-audit",
               "children": [
                 {
                   "node_type": "item",
                   "title": "And: Use data-dist-info-metadata (PEP 658) to decouple resolution from downloading by cosmicexplorer · Pull Request #11111 · pypa/pip",
-                  "description": null,
+                  "description": "pypa/pip",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5430,10 +5430,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-23T23:12:15Z",
-                    "open_issues": 954,
+                    "open_issues": 957,
                     "owner": "pypa",
                     "repo": "pip",
-                    "stars": 10292,
+                    "stars": 10291,
                     "topics": [
                       "packaging",
                       "pip",
@@ -5445,7 +5445,7 @@
                 {
                   "node_type": "item",
                   "title": "And nuclear-treestump/pydepgate: Zero-dependency lightweight static analyzer for detecting supply chain attacks in Python code, with SARIF output, container attestation, and reproducible builds",
-                  "description": null,
+                  "description": "nuclear-treestump/pydepgate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5506,7 +5506,7 @@
             {
               "node_type": "item",
               "title": "Or Checkmarx/chainjacking: Find which of your go lang direct GitHub dependencies is susceptible to ChainJacking attack",
-              "description": null,
+              "description": "Checkmarx/chainjacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5564,7 +5564,7 @@
         {
           "node_type": "item",
           "title": "ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft",
-          "description": null,
+          "description": "ckotzbauer/sbom-operator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5573,8 +5573,8 @@
             "id": 445796135,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T06:18:25Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T05:04:34Z",
+            "open_issues": 11,
             "owner": "ckotzbauer",
             "repo": "sbom-operator",
             "stars": 238,
@@ -5591,7 +5591,7 @@
         {
           "node_type": "item",
           "title": "boostsecurityio/bagel: Cross-platform CLI that audits developer workstations for supply chain security risks, inventorying dev tools, risky configurations, and secret metadata (never payloads) across Git, SSH, npm, cloud credentials, and IDE configurations",
-          "description": null,
+          "description": "boostsecurityio/bagel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5600,8 +5600,8 @@
             "id": 1154673005,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-21T20:19:51Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-02T19:41:38Z",
+            "open_issues": 23,
             "owner": "boostsecurityio",
             "repo": "bagel",
             "stars": 200,
@@ -5622,12 +5622,12 @@
         {
           "node_type": "item",
           "title": "sigstore/policy-controller: The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.",
-          "description": null,
+          "description": "sigstore/policy-controller",
           "children": [
             {
               "node_type": "item",
               "title": "Also see: lukehinds/policy-controller-demo: demo of keyless signing with the sigstore kubernetes policy controller",
-              "description": null,
+              "description": "lukehinds/policy-controller-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5653,8 +5653,8 @@
             "id": 491573619,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T17:32:35Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-02T22:55:09Z",
+            "open_issues": 90,
             "owner": "sigstore",
             "repo": "policy-controller",
             "stars": 182,
@@ -5665,7 +5665,7 @@
         {
           "node_type": "item",
           "title": "safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry",
-          "description": null,
+          "description": "safedep/gryph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5674,8 +5674,8 @@
             "id": 1144804405,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T18:08:31Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-02T12:28:08Z",
+            "open_issues": 9,
             "owner": "safedep",
             "repo": "gryph",
             "stars": 171,
@@ -5692,7 +5692,7 @@
         {
           "node_type": "item",
           "title": "spaceraccoon/vulnerability-spoiler-alert: AI-powered monitoring hub that watches open-source repositories and detects security vulnerability patches before CVEs are assigned, with RSS feed and web interface",
-          "description": null,
+          "description": "spaceraccoon/vulnerability-spoiler-alert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5713,7 +5713,7 @@
         {
           "node_type": "item",
           "title": "reproducible-containers/repro-get: Reproducible apt/dnf/apk/pacman, with content-addressing",
-          "description": null,
+          "description": "reproducible-containers/repro-get",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5736,7 +5736,7 @@
         {
           "node_type": "item",
           "title": "ckotzbauer/vulnerability-operator: Scans SBOMs for vulnerabilities",
-          "description": null,
+          "description": "ckotzbauer/vulnerability-operator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5765,12 +5765,12 @@
         {
           "node_type": "item",
           "title": "kpcyrd/pacman-bintrans: Experimental binary transparency for pacman with sigstore and rekor",
-          "description": null,
+          "description": "kpcyrd/pacman-bintrans",
           "children": [
             {
               "node_type": "item",
               "title": "Also see: kpcyrd/apt-swarm: 🥸 p2p gossip network for update transparency, based on pgp 🥸",
-              "description": null,
+              "description": "kpcyrd/apt-swarm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5821,7 +5821,7 @@
         {
           "node_type": "item",
           "title": "chen-keinan/kube-beacon: Open Source runtime scanner for k8s cluster and perform security audit checks based on CIS Kubernetes Benchmark specification",
-          "description": null,
+          "description": "chen-keinan/kube-beacon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5854,7 +5854,7 @@
         {
           "node_type": "item",
           "title": "code-cargo/cargowall: eBPF-based network firewall for GitHub Actions runners that monitors and controls outbound connections during CI/CD to prevent malicious actions, supply chain attacks, and secret exfiltration",
-          "description": null,
+          "description": "code-cargo/cargowall",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5880,7 +5880,7 @@
         {
           "node_type": "item",
           "title": "openclarity/kubeclarity: KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems",
-          "description": null,
+          "description": "openclarity/kubeclarity",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5909,7 +5909,7 @@
         {
           "node_type": "item",
           "title": "code-cargo/cargowall-action: Official GitHub Action for CargoWall that provides eBPF-based network egress filtering for GitHub Actions runners to prevent supply chain attacks and data exfiltration",
-          "description": null,
+          "description": "code-cargo/cargowall-action",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5930,7 +5930,7 @@
         {
           "node_type": "item",
           "title": "JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows",
-          "description": null,
+          "description": "JulietSecurity/abom",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5951,7 +5951,7 @@
         {
           "node_type": "item",
           "title": "kusari-oss/darnit: Pluggable compliance audit framework generating cryptographic attestations and automating remediation for software engineering best practices including security, testing, build reproducibility, and governance",
-          "description": null,
+          "description": "darnitdevorg/darnit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5961,7 +5961,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T18:54:13Z",
-            "open_issues": 122,
+            "open_issues": 126,
             "owner": "darnitdevorg",
             "repo": "darnit",
             "stars": 22,
@@ -5972,7 +5972,7 @@
         {
           "node_type": "item",
           "title": "hashgraph-online/codex-plugin-scanner: Security and best-practices scanner for OpenAI Codex CLI plugins. Scores plugins 0-100 across manifest validation, secret detection, MCP transport hardening, GitHub Actions security, and best practices. Outputs SARIF for CI integration",
-          "description": null,
+          "description": "hashgraph-online/codex-plugin-scanner",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5993,7 +5993,7 @@
         {
           "node_type": "item",
           "title": "chains-project/goleash: eBPF-based runtime policy enforcement for Go applications, enforcing least privilege at the package level to detect and block malicious behavior from compromised dependencies",
-          "description": null,
+          "description": "chains-project/goleash",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6035,7 +6035,7 @@
         {
           "node_type": "item",
           "title": "doowon/sigtool: sigtool for signed PE files in GO",
-          "description": null,
+          "description": "doowon/sigtool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6056,7 +6056,7 @@
         {
           "node_type": "item",
           "title": "aflock-ai/cilock-action: GitHub Actions security hardening tool that enforces CI/CD pipeline best practices including environment isolation, secret protection, and dependency verification",
-          "description": null,
+          "description": "aflock-ai/cilock-action",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6089,7 +6089,7 @@
         {
           "node_type": "item",
           "title": "luisfontes19/watchtower: VS Code security scanner extension that detects malicious configurations and hidden threats in development environments including Unicode steganography attacks, malicious tasks, and compromised dependencies",
-          "description": null,
+          "description": "luisfontes19/watchtower",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6110,7 +6110,7 @@
         {
           "node_type": "item",
           "title": "celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation",
-          "description": null,
+          "description": "celagus/appsec-crew",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6131,7 +6131,7 @@
         {
           "node_type": "item",
           "title": "asfaload/checksums: Repository holding checksums of internet artifacts to improve security of downloads by hosting duplicate verification points",
-          "description": null,
+          "description": "asfaload/checksums",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6140,7 +6140,7 @@
             "id": 866441449,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-02T08:58:18Z",
+            "last_commit": "2026-10-03T04:59:18Z",
             "open_issues": 0,
             "owner": "asfaload",
             "repo": "checksums",
@@ -6152,7 +6152,7 @@
         {
           "node_type": "item",
           "title": "nick79/diffguard: LLM-powered security review for staged git diffs with AST-aware context, CWE mappings, framework detection (Django, Flask, Rails, Laravel, etc.), and configurable severity thresholds",
-          "description": null,
+          "description": "nick79/diffguard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6196,7 +6196,7 @@
             {
               "node_type": "item",
               "title": "Also: testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library",
-              "description": null,
+              "description": "testifysec/judge-k8s",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6224,7 +6224,7 @@
             {
               "node_type": "item",
               "title": "e.g., pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities",
-              "description": null,
+              "description": "pyupio/safety",
               "children": [
                 {
                   "node_type": "group",
@@ -6234,7 +6234,7 @@
                     {
                       "node_type": "item",
                       "title": "And lirantal/lockfile-lint: Lint an npm or yarn lockfile to analyze and detect security issues",
-                      "description": null,
+                      "description": "lirantal/lockfile-lint",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6264,7 +6264,7 @@
                     {
                       "node_type": "item",
                       "title": "Also see snyk-labs/snync: Mitigate security concerns of Dependency Confusion supply chain security risks",
-                      "description": null,
+                      "description": "snyk-labs/snync",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6285,7 +6285,7 @@
                     {
                       "node_type": "item",
                       "title": "KTH-LangSec/nodeshield: Runtime enforcement of SBOMs and Capabilities Bill of Materials (CBOM) for Node.js to prevent supply chain attacks",
-                      "description": null,
+                      "description": "KTH-LangSec/nodeshield",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6311,7 +6311,7 @@
                     {
                       "node_type": "item",
                       "title": "And KoblerS/np-audit: Static security analyzer for npm packages detecting obfuscated lifecycle scripts, known vulnerabilities, and malicious patterns before installation, with zero dependencies and drop-in / replacement",
-                      "description": null,
+                      "description": "KoblerS/np-audit",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6320,7 +6320,7 @@
                         "id": 1230826265,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-09-30T09:58:46Z",
+                        "last_commit": "2026-10-02T20:05:29Z",
                         "open_issues": 3,
                         "owner": "KoblerS",
                         "repo": "np-audit",
@@ -6352,7 +6352,7 @@
                 "open_issues": 100,
                 "owner": "pyupio",
                 "repo": "safety",
-                "stars": 1999,
+                "stars": 1998,
                 "topics": [
                   "cicd",
                   "dependency-management",
@@ -6379,7 +6379,7 @@
             {
               "node_type": "item",
               "title": "quay/clair: Vulnerability Static Analysis for Containers",
-              "description": null,
+              "description": "quay/clair",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6410,7 +6410,7 @@
             {
               "node_type": "item",
               "title": "graudit/signatures at master · wireghoul/graudit",
-              "description": null,
+              "description": "wireghoul/graudit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6438,12 +6438,12 @@
             {
               "node_type": "item",
               "title": "eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities",
-              "description": null,
+              "description": "eliasgranderubio/dagda",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Half brilliant, half funny, full helpful: kpcyrd/libredefender: Imagine the information security compliance guideline says you need an antivirus but you run Arch Linux",
-                  "description": null,
+                  "description": "kpcyrd/libredefender",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6456,7 +6456,7 @@
                     "open_issues": 10,
                     "owner": "kpcyrd",
                     "repo": "libredefender",
-                    "stars": 136,
+                    "stars": 133,
                     "topics": [
                       "antivirus",
                       "antivirus-scanners",
@@ -6492,7 +6492,7 @@
             {
               "node_type": "item",
               "title": "DataDog/guarddog: GuardDog is a CLI tool to Identify malicious PyPI and npm packages",
-              "description": null,
+              "description": "DataDog/guarddog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6521,7 +6521,7 @@
             {
               "node_type": "item",
               "title": "target/strelka: Real-time, container-based file scanning system for threat hunting, detection, and incident response with file extraction and metadata collection at enterprise scale",
-              "description": null,
+              "description": "target/strelka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6531,7 +6531,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-26T18:32:33Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "target",
                 "repo": "strelka",
                 "stars": 1003,
@@ -6550,7 +6550,7 @@
             {
               "node_type": "item",
               "title": "banyanops/collector: A framework for Static Analysis of Docker container images",
-              "description": null,
+              "description": "banyanops/collector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6578,7 +6578,7 @@
             {
               "node_type": "item",
               "title": "rules on package installation, e.g., hadolint/README.md at d16f342c8e70fcffc7a788d122a1ba602075250d · hadolint/hadolint",
-              "description": null,
+              "description": "hadolint/hadolint",
               "children": [
                 {
                   "node_type": "item",
@@ -6593,10 +6593,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-01T13:08:37Z",
-                    "open_issues": 183,
+                    "open_issues": 180,
                     "owner": "bridgecrewio",
                     "repo": "checkov",
-                    "stars": 9050,
+                    "stars": 9052,
                     "topics": [
                       "aws",
                       "aws-security",
@@ -6618,7 +6618,7 @@
                 {
                   "node_type": "item",
                   "title": "And: aws-samples/automated-security-helper",
-                  "description": "1",
+                  "description": "awslabs/automated-security-helper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6627,11 +6627,11 @@
                     "id": 497513024,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T03:12:04Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-10-02T21:37:22Z",
+                    "open_issues": 20,
                     "owner": "awslabs",
                     "repo": "automated-security-helper",
-                    "stars": 695,
+                    "stars": 696,
                     "topics": [
                       "aws",
                       "awslabs",
@@ -6647,7 +6647,7 @@
                 {
                   "node_type": "item",
                   "title": "And: xlab-si/iac-scan-runner: Service that scans your Infrastructure as Code for common vulnerabilities",
-                  "description": null,
+                  "description": "xlab-si/iac-scan-runner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6730,7 +6730,7 @@
             {
               "node_type": "item",
               "title": "tinkerbell/lint-install: Consistently install reasonable linter rules for open-source projects",
-              "description": null,
+              "description": "tinkerbell/lint-install",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6753,7 +6753,7 @@
         {
           "node_type": "item",
           "title": "analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.",
-          "description": null,
+          "description": "analysis-tools-dev/static-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6762,11 +6762,11 @@
             "id": 48246447,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-21T23:22:40Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T11:05:38Z",
+            "open_issues": 2,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14819,
+            "stars": 14821,
             "topics": [
               "analysis",
               "awesome-list",
@@ -6784,7 +6784,7 @@
         {
           "node_type": "item",
           "title": "anderseknert/awesome-opa: A curated list of OPA related tools, frameworks and articles",
-          "description": null,
+          "description": "open-policy-agent/awesome-opa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6814,7 +6814,7 @@
         {
           "node_type": "item",
           "title": "JupiterOne/secops-automation-examples: Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.",
-          "description": null,
+          "description": "JupiterOne/secops-automation-examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6837,7 +6837,7 @@
             {
               "node_type": "item",
               "title": "keylime/keylime: A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT",
-              "description": null,
+              "description": "keylime/keylime",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6846,8 +6846,8 @@
                 "id": 71359873,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:47:30Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-02T11:10:20Z",
+                "open_issues": 77,
                 "owner": "keylime",
                 "repo": "keylime",
                 "stars": 567,
@@ -6868,7 +6868,7 @@
             {
               "node_type": "item",
               "title": "parallaxsecond/parsec: Platform AbstRaction for SECurity service",
-              "description": null,
+              "description": "parallaxsecond/parsec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6900,7 +6900,7 @@
         {
           "node_type": "item",
           "title": "goharbor/harbor: Trusted cloud native registry project supporting content signing and verification, RBAC, and vulnerability scanning for OCI artifacts",
-          "description": null,
+          "description": "goharbor/harbor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6909,11 +6909,11 @@
             "id": 50613991,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:18:20Z",
-            "open_issues": 923,
+            "last_commit": "2026-10-02T11:43:59Z",
+            "open_issues": 924,
             "owner": "goharbor",
             "repo": "harbor",
-            "stars": 29481,
+            "stars": 29482,
             "topics": [
               "cloud-native",
               "cncf",
@@ -6934,7 +6934,7 @@
         {
           "node_type": "item",
           "title": "Allow using SSH keys to sign commits · Discussion #7744 · github/feedback",
-          "description": null,
+          "description": "community/community",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6947,7 +6947,7 @@
             "open_issues": 0,
             "owner": "community",
             "repo": "community",
-            "stars": 8811,
+            "stars": 8812,
             "topics": [
               "feedback",
               "github",
@@ -6967,7 +6967,7 @@
         {
           "node_type": "item",
           "title": "google/trillian: A transparent, highly scalable and cryptographically verifiable data store.",
-          "description": null,
+          "description": "google/trillian",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6976,8 +6976,8 @@
             "id": 58654489,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T21:59:28Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-02T19:56:51Z",
+            "open_issues": 47,
             "owner": "google",
             "repo": "trillian",
             "stars": 3755,
@@ -6991,12 +6991,12 @@
         {
           "node_type": "item",
           "title": "notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data",
-          "description": null,
+          "description": "notaryproject/notary",
           "children": [
             {
               "node_type": "item",
               "title": "notaryproject/notation: Notation is a project to add signatures as standard items in the registry ecosystem, and to build a set of simple tooling for signing and verifying these signatures. Based on Notary V2 standard.",
-              "description": null,
+              "description": "notaryproject/notation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7024,12 +7024,12 @@
             {
               "node_type": "item",
               "title": "notaryproject/tuf: The Update Framework for OCI Registries",
-              "description": null,
+              "description": "notaryproject/tuf",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Related project: werf/trdl: The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository.",
-                  "description": null,
+                  "description": "werf/trdl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7056,7 +7056,7 @@
                 {
                   "node_type": "item",
                   "title": "Also see vmware-labs/repository-editor-for-tuf: Command line tool for editing and maintaining a TUF repository",
-                  "description": null,
+                  "description": "vmware-archive/repository-editor-for-tuf",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7094,7 +7094,7 @@
             {
               "node_type": "item",
               "title": "notaryproject/roadmap: Roadmap for NotaryV2",
-              "description": null,
+              "description": "notaryproject/roadmap",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7136,7 +7136,7 @@
         {
           "node_type": "item",
           "title": "spiffe/spire: The SPIFFE Runtime Environment",
-          "description": null,
+          "description": "spiffe/spire",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7146,10 +7146,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T07:44:32Z",
-            "open_issues": 115,
+            "open_issues": 117,
             "owner": "spiffe",
             "repo": "spire",
-            "stars": 2564,
+            "stars": 2567,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:39.851Z"
@@ -7157,7 +7157,7 @@
         {
           "node_type": "item",
           "title": "stacklok/toolhive: MCP server deployment platform with Sigstore-based provenance verification and attestation support for container images and binaries",
-          "description": null,
+          "description": "stacklok/toolhive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7166,11 +7166,11 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:10:53Z",
-            "open_issues": 374,
+            "last_commit": "2026-10-03T04:57:16Z",
+            "open_issues": 384,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2230,
+            "stars": 2231,
             "topics": [
               "ai",
               "ai-security",
@@ -7190,7 +7190,7 @@
         {
           "node_type": "item",
           "title": "latchset/tang: Tang binding daemon",
-          "description": null,
+          "description": "latchset/tang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7203,7 +7203,7 @@
             "open_issues": 42,
             "owner": "latchset",
             "repo": "tang",
-            "stars": 739,
+            "stars": 740,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:39.851Z"
@@ -7211,7 +7211,7 @@
         {
           "node_type": "item",
           "title": "recipy/recipy: Effortless method to record provenance in Python",
-          "description": null,
+          "description": "recipy/recipy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7239,7 +7239,7 @@
         {
           "node_type": "item",
           "title": "deislabs/ratify: Artifact Ratification Framework",
-          "description": null,
+          "description": "notaryproject/ratify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7263,7 +7263,7 @@
         {
           "node_type": "item",
           "title": "pyrsia/pyrsia: Decentralized Package Network",
-          "description": null,
+          "description": "pyrsia/pyrsia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7319,7 +7319,7 @@
             "id": 1200840422,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T10:24:23Z",
+            "last_commit": "2026-10-02T10:00:08Z",
             "open_issues": 3,
             "owner": "Halfblood-Prince",
             "repo": "trustcheck",
@@ -7341,7 +7341,7 @@
         {
           "node_type": "item",
           "title": "oras-project/artifacts-spec",
-          "description": null,
+          "description": "oras-project/artifacts-spec",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -7362,7 +7362,7 @@
         {
           "node_type": "item",
           "title": "Fraunhofer-SIT/charra: Proof-of-concept implementation of the \"Challenge/Response Remote Attestation\" interaction model of the IETF RATS Reference Interaction Models for Remote Attestation Procedures using TPM 2.0.",
-          "description": null,
+          "description": "Fraunhofer-SIT/charra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7372,7 +7372,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-01T15:52:53Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Fraunhofer-SIT",
             "repo": "charra",
             "stars": 42,
@@ -7383,7 +7383,7 @@
         {
           "node_type": "item",
           "title": "paragonie/libgossamer: Public Key Infrastructure without Certificate Authorities, for WordPress and Packagist",
-          "description": null,
+          "description": "paragonie/libgossamer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -7438,7 +7438,7 @@
         {
           "node_type": "item",
           "title": "technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.",
-          "description": null,
+          "description": "technosophos/helm-gpg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7465,7 +7465,7 @@
         {
           "node_type": "item",
           "title": "aws-solutions/verifiable-controls-evidence-store: This repository contains the source code of the Verifiable Controls Evidence Store solution",
-          "description": null,
+          "description": "aws-solutions/verifiable-controls-evidence-store",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -7486,7 +7486,7 @@
         {
           "node_type": "item",
           "title": "asfaload/asfaload: Open-source self-hostable multisignature sign-off solution for securing artifact downloads, container image validation, and deployment approval workflows with configurable m-of-n signature thresholds",
-          "description": "(docs)",
+          "description": "asfaload/asfaload",
           "children": [
             {
               "node_type": "item",
@@ -7520,7 +7520,7 @@
             "id": 1007533320,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T04:35:49Z",
+            "last_commit": "2026-10-03T00:29:15Z",
             "open_issues": 34,
             "owner": "asfaload",
             "repo": "asfaload",
@@ -7532,7 +7532,7 @@
         {
           "node_type": "item",
           "title": "puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.",
-          "description": null,
+          "description": "puerco/tejolote",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7553,7 +7553,7 @@
         {
           "node_type": "item",
           "title": "transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers & Verifiable Credentials",
-          "description": null,
+          "description": "transmute-industries/verifiable-actions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7574,7 +7574,7 @@
         {
           "node_type": "item",
           "title": "sns45/forgeseal: Supply chain security CLI for JS/TS that generates CycloneDX SBOMs from lockfiles, signs with Sigstore keyless signing, produces SLSA v1 provenance attestations, and triages vulnerabilities via OSV.dev",
-          "description": null,
+          "description": "sns45/forgeseal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7600,7 +7600,7 @@
             {
               "node_type": "item",
               "title": "Also see: testifysec/go-ima: go-ima is a tool that checks if a file has been tampered with. It is useful in ensuring integrity in CI systems",
-              "description": null,
+              "description": "testifysec/go-ima",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7694,8 +7694,8 @@
                 "id": 682178126,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T15:02:44Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-02T14:12:14Z",
+                "open_issues": 46,
                 "owner": "sigstore",
                 "repo": "model-transparency",
                 "stars": 247,
@@ -7718,7 +7718,7 @@
             {
               "node_type": "item",
               "title": "slsa-framework/slsa-github-generator: Language-agnostic SLSA provenance generation for Github Actions",
-              "description": null,
+              "description": "slsa-framework/slsa-github-generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7753,7 +7753,7 @@
         {
           "node_type": "item",
           "title": "OpenSSF's Concise Guide for Developing More Secure Software 2022-09-01",
-          "description": null,
+          "description": "ossf/wg-best-practices-os-developers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7762,8 +7762,8 @@
             "id": 282988279,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T21:14:43Z",
-            "open_issues": 98,
+            "last_commit": "2026-10-02T21:16:39Z",
+            "open_issues": 95,
             "owner": "ossf",
             "repo": "wg-best-practices-os-developers",
             "stars": 1073,
@@ -7774,7 +7774,7 @@
         {
           "node_type": "item",
           "title": "CIS Software Supply Chain Security Guide",
-          "description": null,
+          "description": "aquasecurity/chain-bench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7838,7 +7838,7 @@
         {
           "node_type": "item",
           "title": "boostsecurityio/smokedmeat: CI/CD red team framework for testing GitHub Actions workflows and pipeline security, exposing CI/CD risks including Log4Shell-like exploits, script injection, and exfiltration vulnerabilities",
-          "description": null,
+          "description": "boostsecurityio/smokedmeat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7872,7 +7872,7 @@
         {
           "node_type": "item",
           "title": "microsoft/oss-ssc-framework: Open Source Software Secure Supply Chain Framework",
-          "description": null,
+          "description": "microsoft/oss-ssc-framework",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -7893,7 +7893,7 @@
         {
           "node_type": "item",
           "title": "praetorian-inc/trajan: Multi-platform CI/CD security scanner for detecting pipeline configuration weaknesses across GitHub Actions, GitLab CI, Azure DevOps, Jenkins, and JFrog",
-          "description": null,
+          "description": "praetorian-inc/trajan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7902,11 +7902,11 @@
             "id": 1174069552,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T01:35:30Z",
+            "last_commit": "2026-10-02T13:58:08Z",
             "open_issues": 4,
             "owner": "praetorian-inc",
             "repo": "trajan",
-            "stars": 188,
+            "stars": 190,
             "topics": [
               "actions-injection",
               "attack",
@@ -7954,7 +7954,7 @@
         {
           "node_type": "item",
           "title": "OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)",
-          "description": null,
+          "description": "OWASP/Software-Component-Verification-Standard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8005,7 +8005,7 @@
         {
           "node_type": "item",
           "title": "boostsecurityio/lotp: \"Living Off the Pipeline\" — inventory and techniques database of development tool abuse capabilities, documenting how CI/CD tools and build pipelines can be exploited for supply chain attacks",
-          "description": null,
+          "description": "boostsecurityio/lotp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8030,7 +8030,7 @@
         {
           "node_type": "item",
           "title": "CycloneDX/transparency-exchange-api: OWASP Transparency Exchange API (TEA) standard for exchanging SBOM and vulnerability information, standardized in ECMA TC54",
-          "description": null,
+          "description": "CycloneDX/transparency-exchange-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8039,7 +8039,7 @@
             "id": 378104357,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:42:38Z",
+            "last_commit": "2026-10-02T13:44:23Z",
             "open_issues": 70,
             "owner": "CycloneDX",
             "repo": "transparency-exchange-api",
@@ -8064,7 +8064,7 @@
         {
           "node_type": "item",
           "title": "microsoft/scim: Supply Chain Integrity Model",
-          "description": null,
+          "description": "microsoft/scim",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8127,7 +8127,7 @@
         {
           "node_type": "item",
           "title": "sbom-tool/gh-guard: CI/CD supply chain hardening plugin for Claude Code guiding Rust projects to achieve OpenSSF Scorecard scores, Trusted Publishing, SLSA L3 provenance, and comprehensive dependency auditing with interactive hardening levels",
-          "description": null,
+          "description": "sbom-tool/gh-guard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8155,7 +8155,7 @@
         {
           "node_type": "item",
           "title": "mchmarny/reputer: CLI tool that calculates contributor reputation scores from Git provider APIs (GitHub) to establish identity confidence and measure contributor trustworthiness for supply chain decisions",
-          "description": null,
+          "description": "mchmarny/reputer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8187,7 +8187,7 @@
         {
           "node_type": "item",
           "title": "GoogleContainerTools/kaniko: Build Container Images In Kubernetes",
-          "description": null,
+          "description": "GoogleContainerTools/kaniko",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8200,7 +8200,7 @@
             "open_issues": 760,
             "owner": "GoogleContainerTools",
             "repo": "kaniko",
-            "stars": 15761,
+            "stars": 15760,
             "topics": [
               "containers",
               "developer-tools",
@@ -8213,7 +8213,7 @@
         {
           "node_type": "item",
           "title": "securego/gosec: Go static analysis tool that detects security problems by scanning the Go AST, enforcing secure coding practices",
-          "description": null,
+          "description": "securego/gosec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8222,11 +8222,11 @@
             "id": 63625434,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:52:13Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-02T09:40:49Z",
+            "open_issues": 4,
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8961,
+            "stars": 8962,
             "topics": [
               "golang",
               "security",
@@ -8241,7 +8241,7 @@
         {
           "node_type": "item",
           "title": "google/santa: A binary authorization system for macOS",
-          "description": null,
+          "description": "google/santa",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8254,7 +8254,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4506,
+            "stars": 4504,
             "topics": [
               "allowlist",
               "authorization",
@@ -8271,7 +8271,7 @@
         {
           "node_type": "item",
           "title": "tag-security/sscsp.md at main · cncf/tag-security",
-          "description": null,
+          "description": "cncf/tag-security",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8284,7 +8284,7 @@
             "open_issues": 20,
             "owner": "cncf",
             "repo": "tag-security",
-            "stars": 2264,
+            "stars": 2263,
             "topics": [
               "access-control",
               "assessment",
@@ -8300,7 +8300,7 @@
         {
           "node_type": "item",
           "title": "defenseunicorns/zarf: DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/",
-          "description": null,
+          "description": "zarf-dev/zarf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8309,8 +8309,8 @@
             "id": 398998426,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T21:00:01Z",
-            "open_issues": 279,
+            "last_commit": "2026-10-02T23:30:49Z",
+            "open_issues": 280,
             "owner": "zarf-dev",
             "repo": "zarf",
             "stars": 2061,
@@ -8338,7 +8338,7 @@
         {
           "node_type": "item",
           "title": "project-copacetic/copacetic: CLI tool for directly patching container images using vulnerability reports from scanners like Trivy, enabling targeted OS package updates without rebuilding images",
-          "description": null,
+          "description": "project-copacetic/copacetic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8351,7 +8351,7 @@
             "open_issues": 34,
             "owner": "project-copacetic",
             "repo": "copacetic",
-            "stars": 1720,
+            "stars": 1722,
             "topics": [
               "cncf",
               "compliance",
@@ -8375,7 +8375,7 @@
         {
           "node_type": "item",
           "title": "trailofbits/buttercup: AI-driven cyber reasoning system for automated vulnerability discovery and patching in open-source code repositories using fuzzing and multi-agent LLM-based patching",
-          "description": null,
+          "description": "trailofbits/buttercup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8388,7 +8388,7 @@
             "open_issues": 61,
             "owner": "trailofbits",
             "repo": "buttercup",
-            "stars": 1715,
+            "stars": 1716,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:39.851Z"
@@ -8396,7 +8396,7 @@
         {
           "node_type": "item",
           "title": "ossf/allstar: GitHub App to set and enforce security policies",
-          "description": null,
+          "description": "ossf/allstar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8417,7 +8417,7 @@
         {
           "node_type": "item",
           "title": "sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.",
-          "description": null,
+          "description": "sethvargo/ratchet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8430,7 +8430,7 @@
             "open_issues": 2,
             "owner": "sethvargo",
             "repo": "ratchet",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "cicd",
               "dependency",
@@ -8442,7 +8442,7 @@
         {
           "node_type": "item",
           "title": "Legit-Labs/legitify: Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets",
-          "description": null,
+          "description": "Legit-Labs/legitify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8483,8 +8483,8 @@
             "id": 165426122,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T14:44:12Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-02T13:08:23Z",
+            "open_issues": 18,
             "owner": "rust-secure-code",
             "repo": "cargo-auditable",
             "stars": 860,
@@ -8537,7 +8537,7 @@
         {
           "node_type": "item",
           "title": "knostic/OpenAnt: LLM-based vulnerability discovery tool for proactively finding verified security flaws while minimizing false positives and negatives, supporting Go, Python, JavaScript/TypeScript, C/C++, PHP, and Ruby",
-          "description": null,
+          "description": "knostic/OpenAnt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8546,11 +8546,11 @@
             "id": 1167798933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T23:37:42Z",
+            "last_commit": "2026-10-02T19:53:22Z",
             "open_issues": 84,
             "owner": "knostic",
             "repo": "OpenAnt",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "ai",
               "cyber",
@@ -8573,7 +8573,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T20:33:35Z",
-            "open_issues": 233,
+            "open_issues": 234,
             "owner": "google",
             "repo": "oss-rebuild",
             "stars": 716,
@@ -8624,7 +8624,7 @@
         {
           "node_type": "item",
           "title": "chainloop-dev/chainloop: Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process.",
-          "description": null,
+          "description": "chainloop-dev/chainloop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8633,8 +8633,8 @@
             "id": 610316941,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T07:14:33Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-02T18:18:17Z",
+            "open_issues": 19,
             "owner": "chainloop-dev",
             "repo": "chainloop",
             "stars": 582,
@@ -8665,7 +8665,7 @@
         {
           "node_type": "item",
           "title": "kpcyrd/rebuilderd: Independent verification of binary packages - reproducible builds",
-          "description": null,
+          "description": "kpcyrd/rebuilderd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8678,7 +8678,7 @@
             "open_issues": 52,
             "owner": "kpcyrd",
             "repo": "rebuilderd",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "rebuilder",
               "reproducible-builds",
@@ -8714,7 +8714,7 @@
         {
           "node_type": "item",
           "title": "garnix-io/garn: Build tool and development environment manager using declarative TypeScript configuration to encode project dependencies, build steps, and development environment in a single reproducible definition",
-          "description": null,
+          "description": "garnix-io/garn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8735,7 +8735,7 @@
         {
           "node_type": "item",
           "title": "reposaur/reposaur: Open source compliance tool for development platforms.",
-          "description": null,
+          "description": "reposaur/reposaur",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8770,7 +8770,7 @@
         {
           "node_type": "item",
           "title": "tektoncd/chains: Supply Chain Security in Tekton Pipelines",
-          "description": null,
+          "description": "tektoncd/chains",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8779,8 +8779,8 @@
             "id": 272426602,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T10:28:20Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-02T14:14:00Z",
+            "open_issues": 75,
             "owner": "tektoncd",
             "repo": "chains",
             "stars": 277,
@@ -8814,7 +8814,7 @@
         {
           "node_type": "item",
           "title": "jart/landlock-make: Sandboxing for GNU Make has never been easier",
-          "description": null,
+          "description": "jart/landlock-make",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8835,7 +8835,7 @@
         {
           "node_type": "item",
           "title": "apiiro/PRevent: Self-hosted GitHub app that scans pull requests for malicious code patterns including dynamic code execution and obfuscation",
-          "description": null,
+          "description": "apiiro/PRevent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8877,7 +8877,7 @@
         {
           "node_type": "item",
           "title": "scribe-public/gitgat: Evaluate source control (GitHub) security posture",
-          "description": null,
+          "description": "scribe-public/gitgat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8898,7 +8898,7 @@
         {
           "node_type": "item",
           "title": "SpecterOps/GitHound: BloodHound OpenGraph collector for GitHub mapping organizational structure, permissions, and roles into navigable attack-path graphs for security audits",
-          "description": null,
+          "description": "SpecterOps/GitHound",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8919,7 +8919,7 @@
         {
           "node_type": "item",
           "title": "hermetoproject/hermeto: CLI tool that pre-fetches dependencies to enable hermetic builds with explicit, reproducible, and pinned dependencies for network-isolated container builds",
-          "description": null,
+          "description": "hermetoproject/hermeto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8928,11 +8928,11 @@
             "id": 549096434,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T07:43:04Z",
-            "open_issues": 92,
+            "last_commit": "2026-10-02T15:44:01Z",
+            "open_issues": 96,
             "owner": "hermetoproject",
             "repo": "hermeto",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "cli",
               "container-image",
@@ -8952,7 +8952,7 @@
         {
           "node_type": "item",
           "title": "crashappsec/github-analyzer: A tool to check the security settings of Github Organizations.",
-          "description": null,
+          "description": "crashappsec/github-analyzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8973,7 +8973,7 @@
         {
           "node_type": "item",
           "title": "veraison/veraison: Project Veraison will build software components that can be used to build Attestation Verification Services",
-          "description": null,
+          "description": "veraison/veraison",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8994,12 +8994,12 @@
         {
           "node_type": "item",
           "title": "trailofbits/build-wrap: Linker replacement to sandbox build scripts using Bubblewrap (Linux) or sandbox-exec (macOS), protecting against malicious build script execution",
-          "description": null,
+          "description": "trailofbits/build-wrap",
           "children": [
             {
               "node_type": "item",
               "title": "Also, edgelesssys/constellation: Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.",
-              "description": null,
+              "description": "edgelesssys/constellation",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9089,7 +9089,7 @@
         {
           "node_type": "item",
           "title": "eellak/build-recorder",
-          "description": null,
+          "description": "eellak/build-recorder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9140,7 +9140,7 @@
             "id": 580946645,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T09:37:24Z",
+            "last_commit": "2026-10-02T15:45:04Z",
             "open_issues": 8,
             "owner": "MediaMarktSaturn",
             "repo": "technolinator",
@@ -9153,6 +9153,35 @@
               "quarkus",
               "quarkus-maven",
               "sbom"
+            ]
+          },
+          "first_seen": "2026-08-28T14:35:39.851Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fepitre/package-rebuilder: Standalone orchestrator for rebuilding Debian, Fedora and Qubes OS packages in order to generate metadata which can be used with or to validate reproducible status.",
+          "description": "fepitre/package-rebuilder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Standalone orchestrator for rebuilding Debian, Fedora and Qubes OS packages in order to generate `in-toto` metadata which can be used with `apt-transport-in-toto` or `dnf-plugin-in-toto` to validate reproducible status.",
+            "homepage": null,
+            "id": 330198301,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2022-11-04T17:45:21Z",
+            "open_issues": 4,
+            "owner": "fepitre",
+            "repo": "package-rebuilder",
+            "stars": 11,
+            "topics": [
+              "celery",
+              "python",
+              "rebuilder",
+              "reproducible-builds",
+              "security-tools",
+              "supply-chain",
+              "supply-chain-security"
             ]
           },
           "first_seen": "2026-08-28T14:35:39.851Z"
@@ -9181,7 +9210,7 @@
         {
           "node_type": "item",
           "title": "dash14/buildcage: Restricts outbound network access during Docker builds per RUN step via SNI-based domain filtering, working as a drop-in BuildKit remote driver with ready-to-use GitHub Actions",
-          "description": null,
+          "description": "buildcage/docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9190,8 +9219,8 @@
             "id": 1151920436,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:49:21Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T05:06:17Z",
+            "open_issues": 3,
             "owner": "buildcage",
             "repo": "docker",
             "stars": 11,
@@ -9201,37 +9230,8 @@
         },
         {
           "node_type": "item",
-          "title": "fepitre/package-rebuilder: Standalone orchestrator for rebuilding Debian, Fedora and Qubes OS packages in order to generate metadata which can be used with or to validate reproducible status.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Standalone orchestrator for rebuilding Debian, Fedora and Qubes OS packages in order to generate `in-toto` metadata which can be used with `apt-transport-in-toto` or `dnf-plugin-in-toto` to validate reproducible status.",
-            "homepage": null,
-            "id": 330198301,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2022-11-04T17:45:21Z",
-            "open_issues": 4,
-            "owner": "fepitre",
-            "repo": "package-rebuilder",
-            "stars": 10,
-            "topics": [
-              "celery",
-              "python",
-              "rebuilder",
-              "reproducible-builds",
-              "security-tools",
-              "supply-chain",
-              "supply-chain-security"
-            ]
-          },
-          "first_seen": "2026-08-28T14:35:39.851Z"
-        },
-        {
-          "node_type": "item",
           "title": "Fraunhofer-AISEC/supply-graph: Graph-based analysis tool for detecting supply chain attacks in build systems by tracing source-to-binary relationships (research/FOSDEM 2025 demonstration project using XZ CVE-2024-3094)",
-          "description": null,
+          "description": "Fraunhofer-AISEC/supply-graph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9273,7 +9273,7 @@
         {
           "node_type": "item",
           "title": "kpcyrd/rebuilderd-debian-buildinfo-crawler: Reproducible Builds: Scraper/Parser for https://buildinfos.debian.net into structured data",
-          "description": null,
+          "description": "kpcyrd/rebuilderd-debian-buildinfo-crawler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9299,7 +9299,7 @@
         {
           "node_type": "item",
           "title": "Lind-Project/TriSeal (Enarx): WebAssembly-based runtime for executing applications in Trusted Execution Environments (TEEs) such as Intel SGX and AMD SEV-SNP to enable confidential computing for supply chain workloads",
-          "description": null,
+          "description": "Lind-Project/TriSeal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9308,8 +9308,8 @@
             "id": 903097006,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T21:10:09Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-02T18:02:35Z",
+            "open_issues": 16,
             "owner": "Lind-Project",
             "repo": "TriSeal",
             "stars": 6,
@@ -9325,7 +9325,7 @@
             {
               "node_type": "item",
               "title": "appsec-jedi/pipeline-sentinel: eBPF-powered security monitor for CI/CD build pipelines detecting and blocking suspicious process executions to prevent supply chain attacks during the build phase",
-              "description": null,
+              "description": "appsec-jedi/pipeline-sentinel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9348,12 +9348,12 @@
         {
           "node_type": "item",
           "title": "cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.",
-          "description": null,
+          "description": "cider-security-research/cicd-goat",
           "children": [
             {
               "node_type": "item",
               "title": "And: step-security/attack-simulator: Simulate past supply chain attacks such as SolarWinds, Codecov, and ua-parser-js",
-              "description": null,
+              "description": "step-security/github-actions-goat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9390,7 +9390,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2311,
+            "stars": 2312,
             "topics": [
               "appsec",
               "cicd",
@@ -9421,7 +9421,7 @@
             "open_issues": 20,
             "owner": "cncf",
             "repo": "tag-security",
-            "stars": 2264,
+            "stars": 2263,
             "topics": [
               "access-control",
               "assessment",
@@ -9437,7 +9437,7 @@
         {
           "node_type": "item",
           "title": "kpcyrd/archlinux-inputs-fsck: Lint repository of PKGBUILDs for cryptographically pinned inputs",
-          "description": null,
+          "description": "kpcyrd/archlinux-inputs-fsck",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9458,7 +9458,7 @@
         {
           "node_type": "item",
           "title": "alecmocatta/build_id: Obtain a UUID uniquely representing the build of the current binary.",
-          "description": null,
+          "description": "alecmocatta/build_id",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9486,7 +9486,7 @@
             {
               "node_type": "item",
               "title": "And: zizmor: Static analysis for GitHub Actions workflows to identify insecure CI/CD patterns",
-              "description": null,
+              "description": "zizmorcore/zizmor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9499,7 +9499,7 @@
                 "open_issues": 162,
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 6622,
+                "stars": 6631,
                 "topics": [
                   "github-actions",
                   "security",
@@ -9512,7 +9512,7 @@
             {
               "node_type": "item",
               "title": "And: step-security/harden-runner: Security agent for GitHub-hosted runner: block egress traffic & detect code overwrite to prevent breaches",
-              "description": null,
+              "description": "step-security/harden-runner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9550,7 +9550,7 @@
             {
               "node_type": "item",
               "title": "On the pattern, see Shopify/hansel",
-              "description": null,
+              "description": "Shopify/hansel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9586,7 +9586,7 @@
                 {
                   "node_type": "item",
                   "title": "tag-security/cloud-native-security-lexicon.md at main · cncf/tag-security",
-                  "description": null,
+                  "description": "cncf/tag-security",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9599,7 +9599,7 @@
                     "open_issues": 20,
                     "owner": "cncf",
                     "repo": "tag-security",
-                    "stars": 2264,
+                    "stars": 2263,
                     "topics": [
                       "access-control",
                       "assessment",
@@ -9615,7 +9615,7 @@
                 {
                   "node_type": "item",
                   "title": "slsa/terminology.md at main · slsa-framework/slsa",
-                  "description": null,
+                  "description": "slsa-framework/slsa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9640,7 +9640,7 @@
                 {
                   "node_type": "item",
                   "title": "A great compilation of reads, context and learning materials: chainguard-dev/ssc-reading-list: A reading list for software supply-chain security.",
-                  "description": null,
+                  "description": "chainguard-dev/ssc-reading-list",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9653,7 +9653,7 @@
                     "open_issues": 2,
                     "owner": "chainguard-dev",
                     "repo": "ssc-reading-list",
-                    "stars": 365,
+                    "stars": 364,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:35:39.851Z"
@@ -9684,7 +9684,7 @@
             {
               "node_type": "item",
               "title": "sigstore/community: General sigstore community repo",
-              "description": null,
+              "description": "sigstore/community",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9752,7 +9752,7 @@
                 {
                   "node_type": "item",
                   "title": "tag-security/supply-chain-security/compromises at main · cncf/tag-security",
-                  "description": null,
+                  "description": "cncf/tag-security",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9765,7 +9765,7 @@
                     "open_issues": 20,
                     "owner": "cncf",
                     "repo": "tag-security",
-                    "stars": 2264,
+                    "stars": 2263,
                     "topics": [
                       "access-control",
                       "assessment",
@@ -9781,7 +9781,7 @@
                 {
                   "node_type": "item",
                   "title": "IQTLabs/software-supply-chain-compromises: A dataset of software supply chain compromises. Please help us maintain it!",
-                  "description": null,
+                  "description": "IQTLabs/software-supply-chain-compromises",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9841,7 +9841,7 @@
                 {
                   "node_type": "item",
                   "title": "ossf/oss-compromises: Archive of various open source security compromises",
-                  "description": null,
+                  "description": "ossf/oss-compromises",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9869,7 +9869,7 @@
                 {
                   "node_type": "item",
                   "title": "Not supply chain security specific, but worth tracking: PayDevs/awful-oss-incidents: 🤬 A categorized list of incidents caused by unappreciated OSS maintainers or underfunded OSS projects. Feedback welcome!",
-                  "description": null,
+                  "description": "PayDevs/awful-oss-incidents",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9904,7 +9904,7 @@
                 {
                   "node_type": "item",
                   "title": "goreleaser/supply-chain-example: Example goreleaser + github actions config with keyless signing and SBOM generation",
-                  "description": null,
+                  "description": "goreleaser/example-supply-chain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9948,7 +9948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:01:06.266Z",
+    "last_updated": "2026-10-03T05:06:37.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A compilation of resources in the software supply chain security domain, with emphasis on open source",
